@@ -2,15 +2,18 @@
   <div class="wrapper">
     <Navigation />
     <article class="content">
-      <div class="about">
-        <h1>This is an about page</h1>
-      </div>
+      <h1>Lectures</h1>
+      <ul>
+        <li><router-link to="/lecture00">Lecture 0</router-link></li>
+        <li><router-link to="/lecture01">Lecture 1</router-link></li>
+      </ul>
     </article>
     <Sidebar />
     <Sources />
     <Footer />
   </div>
 </template>
+
 <script>
 import Navigation from "@/components/Navigation";
 import Sidebar from "@/components/Sidebar";
