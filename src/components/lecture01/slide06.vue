@@ -13,6 +13,12 @@
         href="https://storybook.js.org/docs/react/get-started/examples"
         >Storybook</a
       >
+            <a
+        target="_blank"
+        href=https://patternlab.io/
+        >Pattern Lab
+        </a>
+      
     </p>
     <h3 class="space--large">Design studios</h3>
     <p class="space">

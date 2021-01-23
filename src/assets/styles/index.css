@@ -115,7 +115,9 @@ a.router-link-exact-active {
           text-decoration-line: underline;
   -webkit-text-decoration-style: wavy;
           text-decoration-style: wavy;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: 2px;
+  -webkit-text-decoration-color: #42b983;
+          text-decoration-color: #42b983;
 }
 
 .space {
@@ -230,5 +232,14 @@ a.router-link-exact-active {
   font-size: 20px;
   padding-top: 2px;
   padding-left: 10px;
+}
+
+.example--w100 {
+  width: 100%;
+  height: auto;
+}
+
+.tab {
+  padding-left: 20px;
 }
 /*# sourceMappingURL=index.css.map */

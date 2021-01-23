@@ -5,14 +5,27 @@
       <div>
         <h4>Implement Separation of Concerns</h4>
         <p>
-          In Assignment 2 and Assignment 3 you are required to create and use a
-          simple Separation of Concerns.
+          In Assignment 2 and Assignment 3
+          <span class="action--underscore"
+            >you are required to <br />create and use</span
+          >
+          a simple Separation of Concerns.
         </p>
       </div>
       <div>
         <h4>Example</h4>
-        <div class="example">background-color: black;</div>
+        <img
+          class="img"
+          src="../../assets/images/lectur02separationOfConcerns.png"
+          alt="Example of Separation Of Concerns"
+        />
       </div>
     </div>
   </div>
 </template>
+
+<style>
+.img {
+  max-height: 400px;
+}
+</style>

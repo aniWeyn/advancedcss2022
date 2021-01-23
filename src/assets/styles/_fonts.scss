@@ -29,5 +29,6 @@ a.router-link-exact-active {
   .action--underscore{
    text-decoration-line: underline;
     text-decoration-style: wavy;
-    text-decoration-thickness: 1px;
+    text-decoration-thickness: 2px;
+    text-decoration-color: $accent-green;
   }
