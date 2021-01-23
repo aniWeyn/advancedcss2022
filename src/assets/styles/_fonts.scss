@@ -13,3 +13,21 @@ a {
 a.router-link-exact-active {
     color: $accent-green;
 }
+
+.italic {
+    font-style: italic;
+  }
+  
+  .sources {
+    font-size: 0.5rem;
+  }
+
+  .action {
+    text-shadow: 1px 2px 3px $accent-green;
+  }
+
+  .action--underscore{
+   text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 1px;
+  }

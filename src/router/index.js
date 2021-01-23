@@ -26,7 +26,7 @@ const routes = [
       import(/* webpackChunkName: "lectures" */ "../views/Lectures.vue"),
   },
   {
-    path: "/lecture00",
+    path: "/lectures/lecture00",
     name: "Lecture00",
     component: () =>
       import(
@@ -34,11 +34,19 @@ const routes = [
       ),
   },
   {
-    path: "/lecture01",
+    path: "/lectures/lecture01",
     name: "Lecture01",
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture01.vue"
+      ),
+  },
+  {
+    path: "/lectures/lecture02",
+    name: "Lecture02",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture02.vue"
       ),
   },
 ];
