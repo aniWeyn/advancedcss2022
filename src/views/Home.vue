@@ -4,6 +4,7 @@
     <article class="content">
       <div class="home">
         <HelloWorld msg="Welcome to Advanced CSS course" />
+        <p>Page under construction!</p>
       </div>
     </article>
     <Sidebar />

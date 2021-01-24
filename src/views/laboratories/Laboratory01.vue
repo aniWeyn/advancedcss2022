@@ -60,7 +60,7 @@
       <li>11:20: IDG_gc_1007_gc_09</li>
       <li>11:30: IDG_gc_1007_gc_10_norway</li>
       <li>11:40: IDG_gc_1007_gc_11</li>
-      <li>11:50: IDG_gc_1007_gc_12</li>
+      <li>11:50: IDG_gc_1007_gc_12_GuardiansOfCSS</li>
       <li>12:00 / 12:05 / 12:10 short sum up</li>
     </ul>
   </div>
