@@ -49,6 +49,20 @@ const routes = [
         /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture02.vue"
       ),
   },
+  {
+    path: "/laboratories/",
+    name: "Laboratories",
+    component: () =>
+      import(/* webpackChunkName: "lecture01" */ "../views/Laboratories.vue"),
+  },
+  {
+    path: "/laboratories/laboratory01",
+    name: "Laboratory01",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory01.vue"
+      ),
+  },
 ];
 
 const router = new VueRouter({
