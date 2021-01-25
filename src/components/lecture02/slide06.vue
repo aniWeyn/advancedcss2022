@@ -17,8 +17,8 @@
 
     <h4>What does it means in practice?</h4>
     <p>
-      Start the design on how it will look and work without CSS and JS (base
-      core experience).
+      Start the design on how it will look and work
+      <span class="bold">without</span> CSS and JS (base core experience).
       <br />
       The CSS and JS will only enhance the page.
     </p>

@@ -4,9 +4,11 @@
     Do individually on your PC or Mac
     <ul>
       <li>Install Visual Studio Code</li>
-      <li>Install extensions: Live Sass Compiler, LiveServer</li>
+      <li>
+        Install extensions: Live Sass Compiler, LiveServer, Path Intellisense
+      </li>
       <li>For Advanced: install as well Prettier and ESLint</li>
-      <li>Install Git</li>
+      <li>Install Git, https://git-scm.com/</li>
       <li>Register in GitHub with student credentials</li>
       <li>
         Exercise your GitHub skills with GitHub tutorial:
