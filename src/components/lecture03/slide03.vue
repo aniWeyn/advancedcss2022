@@ -2,7 +2,7 @@
   <div class="middle">
     <img
       class="img-ms"
-      src="../../assets/images/accessibility/a11y-02-disability.png"
+      src="../../assets/images/accessibility/a11y-01-history.png"
       alt="Disabillity"
     />
   </div>

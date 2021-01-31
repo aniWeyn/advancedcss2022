@@ -1,16 +1,16 @@
 <template>
   <div class="lecture">
     <Slide00 v-if="render === 0" />
-    <Slide01 v-if="render === 1" />
-    <Slide02 v-if="render === 2" />
-    <Slide03 v-if="render === 3" />
-    <Slide04 v-if="render === 4" />
-    <Slide05 v-if="render === 5" />
-    <Slide06 v-if="render === 6" />
-    <Slide07 v-if="render === 7" />
-    <Slide08 v-if="render === 8" />
-    <Slide09 v-if="render === 9" />
-    <Slide10 v-if="render === 10" />
+    <Slide02 v-if="render === 1" />
+    <Slide03 v-if="render === 2" />
+    <Slide04 v-if="render === 3" />
+    <Slide05 v-if="render === 4" />
+    <Slide06 v-if="render === 5" />
+    <Slide07 v-if="render === 6" />
+    <Slide08 v-if="render === 7" />
+    <Slide09 v-if="render === 8" />
+    <Slide10 v-if="render === 9" />
+    <Slide11 v-if="render === 10" />
 
     <Slide0a v-if="render === 11" />
     <Slide0b v-if="render === 12" />
@@ -30,7 +30,6 @@
 </template>
 
 <script>
-import Slide01 from "@/components/lecture03/slide01.vue";
 import Slide02 from "@/components/lecture03/slide02.vue";
 import Slide03 from "@/components/lecture03/slide03.vue";
 import Slide04 from "@/components/lecture03/slide04.vue";
@@ -40,6 +39,7 @@ import Slide07 from "@/components/lecture03/slide07.vue";
 import Slide08 from "@/components/lecture03/slide08.vue";
 import Slide09 from "@/components/lecture03/slide09.vue";
 import Slide10 from "@/components/lecture03/slide10.vue";
+import Slide11 from "@/components/lecture03/slide11.vue";
 
 import Slide00 from "@/components/lecture03/slide00.vue";
 import Slide0a from "@/components/lecture03/slide0a.vue";
@@ -53,7 +53,6 @@ export default {
   name: "Lecture03",
   components: {
     Slide00,
-    Slide01,
     Slide02,
     Slide03,
     Slide04,
@@ -63,6 +62,7 @@ export default {
     Slide08,
     Slide09,
     Slide10,
+    Slide11,
     Slide0a,
     Slide0b,
     Slide0c,

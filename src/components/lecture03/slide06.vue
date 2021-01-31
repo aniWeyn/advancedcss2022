@@ -2,7 +2,7 @@
   <div class="middle">
     <img
       class="img-ms--cards"
-      src="../../assets/images/accessibility/a11y-05-mismatch.png"
+      src="../../assets/images/accessibility/a11y-04-permanentTemporarySituational.png"
       alt="Disabillity"
     />
   </div>
