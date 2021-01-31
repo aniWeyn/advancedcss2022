@@ -9,6 +9,11 @@
             >Laboratory 01 - 25.01.2020</router-link
           >
         </li>
+        <li>
+          <router-link to="/laboratories/laboratory02"
+            >Laboratory 02 - 01.02.2020</router-link
+          >
+        </li>
       </ul>
     </article>
     <Sidebar />

@@ -4,9 +4,26 @@
     <article class="content">
       <h1>Lectures</h1>
       <ul>
-        <li><router-link to="/lectures/lecture00">Lecture 0</router-link></li>
-        <li><router-link to="/lectures/lecture01">Lecture 1</router-link></li>
-        <li><router-link to="/lectures/lecture02">Lecture 2</router-link></li>
+        <li>
+          <router-link to="/lectures/lecture00"
+            >Lecture 0 - Welcome and Course organisation</router-link
+          >
+        </li>
+        <li>
+          <router-link to="/lectures/lecture01"
+            >Lecture 1 - Advanced CSS, let's begin!</router-link
+          >
+        </li>
+        <li>
+          <router-link to="/lectures/lecture02"
+            >Lecture 2 - Architecting CSS</router-link
+          >
+        </li>
+        <li>
+          <router-link to="/lectures/lecture03"
+            >Lecture 3 - Accessibility for designing / Designing for animation
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />

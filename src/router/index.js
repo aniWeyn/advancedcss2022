@@ -20,6 +20,15 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/About.vue"),
   },
   {
+    path: "/random",
+    name: "Random",
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/Random.vue"),
+  },
+  {
     path: "/lectures",
     name: "Lectures",
     component: () =>
@@ -50,6 +59,14 @@ const routes = [
       ),
   },
   {
+    path: "/lectures/lecture03",
+    name: "Lecture03",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture03.vue"
+      ),
+  },
+  {
     path: "/laboratories/",
     name: "Laboratories",
     component: () =>
@@ -61,6 +78,14 @@ const routes = [
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory01.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory02",
+    name: "Laboratory01",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory02.vue"
       ),
   },
 ];

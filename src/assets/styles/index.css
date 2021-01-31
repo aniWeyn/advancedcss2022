@@ -118,6 +118,11 @@ a.router-link-exact-active {
   text-decoration-thickness: 2px;
   -webkit-text-decoration-color: #42b983;
           text-decoration-color: #42b983;
+  text-underline-position: under;
+}
+
+.action--highlight {
+  background: rgba(66, 185, 131, 0.2);
 }
 
 .space {

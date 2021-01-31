@@ -31,4 +31,9 @@ a.router-link-exact-active {
     text-decoration-style: wavy;
     text-decoration-thickness: 2px;
     text-decoration-color: $accent-green;
+    text-underline-position: under;
+  }
+
+  .action--highlight {
+    background: transparentize($accent-green, 0.8);
   }
