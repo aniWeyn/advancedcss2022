@@ -38,7 +38,6 @@ export default {
         "css_gc_1007_gc_rio",
         "css_gc_1007_gc_gjovik",
         "IDG_gc_1007_gc_13_sassySassDevs",
-        "css_gc_1007_gc_nydalen",
         "IDG_gc_1007_gc_08_mjøsa",
         "IDG_gc_1007_gc_09_sweden",
         "IDG_gc_1007_gc_10_norway",
