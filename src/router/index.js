@@ -67,6 +67,22 @@ const routes = [
       ),
   },
   {
+    path: "/lectures/lecture04",
+    name: "Lecture04",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture04.vue"
+      ),
+  },
+  {
+    path: "/lectures/lecture03",
+    name: "Lecture03",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture03.vue"
+      ),
+  },
+  {
     path: "/laboratories/",
     name: "Laboratories",
     component: () =>
@@ -82,10 +98,18 @@ const routes = [
   },
   {
     path: "/laboratories/laboratory02",
-    name: "Laboratory01",
+    name: "Laboratory02",
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory02.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory03",
+    name: "Laboratory03",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory03.vue"
       ),
   },
 ];

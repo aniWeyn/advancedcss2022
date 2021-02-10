@@ -24,6 +24,9 @@
             >Lecture 3 - Accessibility for designing / Designing for animation
           </router-link>
         </li>
+        <li>
+          <router-link to="/lectures/lecture04">Lecture 4 - SASS </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />
