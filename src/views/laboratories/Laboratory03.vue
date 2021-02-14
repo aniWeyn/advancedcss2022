@@ -46,6 +46,12 @@
           src="../../assets/images/lab03-exx-error.png"
           alt="Example of SASS Maps use"
         />
+        <h4>Comments</h4>
+        <img
+          class="img"
+          src="../../assets/images/lab03-ex-COMMENTS.png"
+          alt="Example of comments in SASS"
+        />
         <h4>SASS Maps</h4>
         <img
           class="img"
@@ -130,3 +136,10 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.img {
+  max-width: 400px;
+  max-height: 400px;
+}
+</style>

@@ -1,6 +1,7 @@
 <template>
   <div class="lecture">
     <Slide00 v-if="render === 0" />
+    <Preview v-if="render === 1" />
     <div class="button-navigation">
       <button v-if="render != 0" v-on:click="render -= 1">Back</button>
       <button v-if="render != 14" v-on:click="render += 1">Next</button>
@@ -10,6 +11,7 @@
 
 <script>
 import Slide00 from "@/components/lecture04/slide00.vue";
+import Preview from "@/components/lecture04/slide0sass04.vue";
 /*import Slide01 from "@/components/lecture04/slide01.vue";
 import Slide02 from "@/components/lecture04/slide02.vue";
 import Slide03 from "@/components/lecture04/slide03.vue";
@@ -29,6 +31,7 @@ export default {
   name: "Lecture00",
   components: {
     Slide00,
+    Preview,
     /*Slide01,
     Slide02,
     Slide03,
