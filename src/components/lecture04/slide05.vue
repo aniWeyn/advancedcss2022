@@ -1,8 +1,19 @@
 <template>
   <div>
-    <h3>PostCSS</h3>
-    <div>
-      <a href="https://postcss.org/">PostCSS</a>
-    </div>
+    <img
+      class="img"
+      src="../../assets/images/lecture04-logo_postCSS.svg"
+      alt="Image of Stylus logo"
+    />
+    <p>
+      <a href="https://postcss.org/">PostCSS Documentation</a>
+    </p>
   </div>
 </template>
+
+<style scoped>
+.img {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+</style>

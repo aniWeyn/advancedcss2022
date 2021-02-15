@@ -25,7 +25,9 @@
           </router-link>
         </li>
         <li>
-          <router-link to="/lectures/lecture04">Lecture 4 - SASS </router-link>
+          <router-link to="/lectures/lecture04"
+            >Lecture 4 - Preprocessors... and SASS
+          </router-link>
         </li>
       </ul>
     </article>

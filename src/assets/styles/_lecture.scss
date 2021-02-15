@@ -63,13 +63,17 @@ flex-direction: column;
 justify-content: space-between;
 }
 
+@mixin button-font($color){
+    color: $color
+}
+
 .button-navigation {
     display: flex;
     justify-content: space-between;
 
     button{
         font-size: 0.8em;
-        color: $accent-green;
+        @include button-font($accent-green);  //color: $accent-green
         background-color: transparent;
         border-color: transparent;
         padding: 20px;

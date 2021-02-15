@@ -2,17 +2,23 @@
   <div>
     <h3>What are preprocessors?</h3>
     <p>
-      "A CSS preprocessor is a program that lets you generate CSS from the
-      preprocessor's own unique syntax. There are many CSS preprocessors to
-      choose from, however most CSS preprocessors will add some features that
-      don't exist in pure CSS, such as mixin, nesting selector, inheritance
-      selector, and so on. These features make the CSS structure more readable
-      and easier to maintain."
+      <i>
+        "A CSS preprocessor is a program that lets you generate CSS from the
+        preprocessor's own unique syntax. <br /><br />
+        (...) most CSS preprocessors will add some features that don't exist in
+        pure CSS, such as <br />mixin, nesting selector, inheritance selector,
+        and so on. <br /><br />These features make the CSS structure more
+        readable and easier to maintain."</i
+      >
     </p>
+    <br /><br />
     <p>
-      "To use a CSS preprocessor, you must install a CSS compiler on your web
-      server; Or use the CSS preprocessor to compile on the development
-      environment, and then upload compiled CSS file to the web server."
+      <i>
+        "To use a CSS preprocessor, you must install a CSS compiler on your web
+        server; <br />Or use the CSS preprocessor to compile on the development
+        environment,<br />and then upload compiled CSS file to the web
+        server."</i
+      >
     </p>
     <span class="sources">
       MDN web Docs Glossary: Definitions of Web-related terms. (n.d.). Retrieved

@@ -133,6 +133,25 @@ a.router-link-exact-active {
   padding-top: 100px;
 }
 
+.example {
+  background-color: black;
+  color: white;
+  height: 100%;
+  width: 50%;
+  font-size: 20px;
+  padding-top: 2px;
+  padding-left: 10px;
+}
+
+.example--w100 {
+  width: 100%;
+  height: auto;
+}
+
+.tab {
+  padding-left: 20px;
+}
+
 .nav a {
   padding-top: 10%;
 }
@@ -227,24 +246,5 @@ a.router-link-exact-active {
 
 .button-navigation button:hover {
   background-color: rgba(66, 185, 131, 0.1);
-}
-
-.example {
-  background-color: black;
-  color: white;
-  height: 100%;
-  width: 50%;
-  font-size: 20px;
-  padding-top: 2px;
-  padding-left: 10px;
-}
-
-.example--w100 {
-  width: 100%;
-  height: auto;
-}
-
-.tab {
-  padding-left: 20px;
 }
 /*# sourceMappingURL=index.css.map */

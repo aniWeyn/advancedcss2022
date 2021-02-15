@@ -18,9 +18,14 @@
             src="../../assets/images/lecture04-scss.png"
             alt="Example of Separation Of Concerns"
           />
-          *this one we will use during our classes
+          <p>*this one we will use during our classes</p>
         </div>
       </div>
     </div>
   </div>
 </template>
+<style scoped>
+.img {
+  width: 50%;
+}
+</style>
