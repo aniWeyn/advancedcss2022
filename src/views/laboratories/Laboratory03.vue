@@ -2,15 +2,18 @@
   <div>
     <h3>Laboratory Schedule</h3>
     <div class="flex">
-      <h2>Assignment 2</h2>
       Include SASS in your Assignment 2 and Assignment 3 project.
+      <hr />
       <div>
         <h3>Preparing Visual Studio Code</h3>
-        <h4>Download Watch SASS</h4>
-        <a
-          href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass"
-          >Live SASS Compiler</a
-        >
+        <p>
+          Download Watch SASS:
+          <a
+            href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass"
+            >Live SASS Compiler</a
+          >
+        </p>
+        <h3>Preparing files</h3>
         <h4>Project</h4>
         <ul>
           <li>Create a file index.html</li>
@@ -28,24 +31,26 @@
           <a href="https://coolors.co/">Coolors</a>
         </p>
         <p>Add your colors ass a $theme__colorName: #1c2321</p>
+        <h3>Compailing the SASS files</h3>
         <h4>Click Watch sass</h4>
-        <p>In Visual Studio Code, at the bottom blue panel click Watch SASS</p>
+        <p>In Visual Studio Code, at the bottom blue panel click Watch SASS.</p>
         <p>
           The index.css file and index.css.map files shoul be created for you by
-          SASS compiler
+          SASS compiler.
         </p>
-        <h4>OUTPUT</h4>
+        <h4>Output</h4>
         <p>
-          It is worthy to check from time to time OUTPUT tab (look at Terminal
-          tabs, to open terminal click Terminal and New Terminal). In the OUTPUT
-          tab Watch SASS will inform you about any problems with compliation of
-          your files.
+          It is worthy to check from time to time Output tab (look at Terminal
+          tabs, to open terminal click Terminal and New Terminal).<br />
+          In the Output tab Watch SASS will inform you about any problems with
+          compliation of your files.
         </p>
         <img
           class="img"
           src="../../assets/images/lab03-exx-error.png"
           alt="Example of SASS Maps use"
         />
+        <h3>Using SASS in practice</h3>
         <h4>Comments</h4>
         <img
           class="img"
@@ -65,7 +70,7 @@
         />
         <p></p>
         <h4>clip-path (not sass)</h4>
-        https://www.youtube.com/watch?v=pWYAzzfQP0w&ab_channel=DesignCourse
+        <!--https://www.youtube.com/watch?v=pWYAzzfQP0w&ab_channel=DesignCourse-->
         <p>
           Check on Mozilla what is
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path"
@@ -116,8 +121,6 @@
           src="../../assets/images/lab03-ex10-mixins.png"
           alt="Example of SASS functions"
         />
-        <h4>Extend</h4>
-        https://www.youtube.com/watch?v=is87ILGUQWU&ab_channel=DesignCourse
         <h4>Colors in SASS</h4>
         <img
           class="img"
@@ -139,7 +142,7 @@
 
 <style scoped>
 .img {
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 600px;
+  padding: 40px;
 }
 </style>

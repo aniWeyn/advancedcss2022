@@ -2,14 +2,16 @@
   <div>
     <h3>SASS</h3>
     <ul>
-      <li>variables: reusable values</li>
-      <li>nesting: nesting selectors inside of one another</li>
-      <li>mixins: reusable pieces of CSS</li>
-      <li>functions: reusability and code redability</li>
-      <li>extends: inheritance</li>
-      <li>control directivness: condictiionals and loops</li>
-      <li>operators: matchematical operations</li>
-      <li>partials and imports: allows separation of concerns</li>
+      <li><strong>variables</strong>: reusable values</li>
+      <li><strong>nesting</strong>: nesting selectors inside of one another</li>
+      <li><strong>mixins</strong>: reusable pieces of CSS</li>
+      <li><strong>functions</strong>: reusability and code redability</li>
+      <li><strong>extends</strong>: inheritance</li>
+      <li><strong>control directivness</strong>: condictiionals and loops</li>
+      <li><strong>operators</strong>: matchematical operations</li>
+      <li>
+        <strong>partials and imports</strong>: allows separation of concerns
+      </li>
     </ul>
   </div>
 </template>
