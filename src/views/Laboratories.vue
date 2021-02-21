@@ -29,6 +29,11 @@
             >Laboratory 04 - 22.02.2020</router-link
           >
         </li>
+        <li>
+          <a target="_blank" href="https://github.com/aniWeyn/svg"
+            >GitHub repository: intorudction to SVG</a
+          >
+        </li>
       </ul>
     </article>
     <Sidebar />

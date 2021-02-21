@@ -112,6 +112,14 @@ const routes = [
         /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory03.vue"
       ),
   },
+  {
+    path: "/laboratories/laboratory04",
+    name: "Laboratory04",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory04.vue"
+      ),
+  },
 ];
 
 const router = new VueRouter({
