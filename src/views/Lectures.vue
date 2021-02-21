@@ -29,6 +29,11 @@
             >Lecture 4 - Preprocessors... and SASS
           </router-link>
         </li>
+        <li>
+          <router-link to="/lectures/lecture05"
+            >Lecture 5 - CSS Variables vs. SASS variables and SVG
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />

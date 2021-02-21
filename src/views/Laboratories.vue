@@ -19,6 +19,16 @@
             >Laboratory 03 - 15.02.2020</router-link
           >
         </li>
+        <li>
+          <a href="https://github.com/aniWeyn/advanced_css_examples"
+            >GitHub repository: SASS variables, CSS variables</a
+          >
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory04"
+            >Laboratory 04 - 22.02.2020</router-link
+          >
+        </li>
       </ul>
     </article>
     <Sidebar />

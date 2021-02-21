@@ -13,6 +13,7 @@
             >Live SASS Compiler</a
           >
         </p>
+        <p>Download Live Server</p>
         <h3>Preparing files</h3>
         <h4>Project</h4>
         <ul>

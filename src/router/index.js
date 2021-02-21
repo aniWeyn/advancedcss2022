@@ -75,11 +75,11 @@ const routes = [
       ),
   },
   {
-    path: "/lectures/lecture03",
-    name: "Lecture03",
+    path: "/lectures/lecture05",
+    name: "Lecture05",
     component: () =>
       import(
-        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture03.vue"
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture05.vue"
       ),
   },
   {
