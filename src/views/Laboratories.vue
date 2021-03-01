@@ -34,6 +34,11 @@
             >GitHub repository: intorudction to SVG</a
           >
         </li>
+        <li>
+          <router-link to="/laboratories/laboratory05"
+            >Laboratory 05 - 01.03.2020 - Animating SVG</router-link
+          >
+        </li>
       </ul>
     </article>
     <Sidebar />
