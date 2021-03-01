@@ -35,7 +35,7 @@
           </router-link>
         </li>
         <li>
-          <router-link to="/lectures/lecture05"
+          <router-link to="/lectures/lecture06"
             >Lecture 6 - Animating SVG
           </router-link>
         </li>
