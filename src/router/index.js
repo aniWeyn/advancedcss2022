@@ -83,6 +83,14 @@ const routes = [
       ),
   },
   {
+    path: "/lectures/lecture06",
+    name: "Lecture06",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture06.vue"
+      ),
+  },
+  {
     path: "/laboratories/",
     name: "Laboratories",
     component: () =>
