@@ -39,6 +39,11 @@
             >Lecture 6 - Animating SVG
           </router-link>
         </li>
+        <li>
+          <router-link to="/lectures/lecture07"
+            >Lecture 7 - Animating CSS
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />
