@@ -6,17 +6,17 @@
       <ul>
         <li>
           <router-link to="/laboratories/laboratory01"
-            >Laboratory 01 - 25.01.2020</router-link
+            >Laboratory 01 - 25.01.2021</router-link
           >
         </li>
         <li>
           <router-link to="/laboratories/laboratory02"
-            >Laboratory 02 - 01.02.2020</router-link
+            >Laboratory 02 - 01.02.2021</router-link
           >
         </li>
         <li>
           <router-link to="/laboratories/laboratory03"
-            >Laboratory 03 - 15.02.2020</router-link
+            >Laboratory 03 - 15.02.2021</router-link
           >
         </li>
         <li>
@@ -26,7 +26,7 @@
         </li>
         <li>
           <router-link to="/laboratories/laboratory04"
-            >Laboratory 04 - 22.02.2020</router-link
+            >Laboratory 04 - 22.02.2021</router-link
           >
         </li>
         <li>
@@ -36,7 +36,23 @@
         </li>
         <li>
           <router-link to="/laboratories/laboratory05"
-            >Laboratory 05 - 01.03.2020 - Animating SVG</router-link
+            >Laboratory 05 - 01.03.2021 - Animating SVG</router-link
+          >
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory06a-tasks"
+            >Laboratory 06 - 15.03.2021 - CSS Shapes with
+            border-radius</router-link
+          >
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory06b"
+            >Laboratory 06 - 15.03.2021 - CSS Transform</router-link
+          >
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory06c"
+            >Laboratory 06a - 15.03.2021 - CSS Transitions</router-link
           >
         </li>
       </ul>
