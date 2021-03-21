@@ -99,6 +99,14 @@ const routes = [
       ),
   },
   {
+    path: "/lectures/lecture08",
+    name: "Lecture07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture08.vue"
+      ),
+  },
+  {
     path: "/laboratories/",
     name: "Laboratories",
     component: () =>
@@ -174,6 +182,54 @@ const routes = [
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory06c.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory07",
+    name: "Laboratory07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory07.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory07a",
+    name: "Laboratory07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory07a.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory07_02",
+    name: "Laboratory07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory07_02.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory07_02ab",
+    name: "Laboratory07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory07_02ab.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory07_02",
+    name: "Laboratory07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory07_02.vue"
+      ),
+  },
+  {
+    path: "/laboratories/laboratory07_03",
+    name: "Laboratory07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory07_03.vue"
       ),
   },
 ];
