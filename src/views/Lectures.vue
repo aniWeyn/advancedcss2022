@@ -44,6 +44,11 @@
             >Lecture 7 - Animating CSS
           </router-link>
         </li>
+        <li>
+          <router-link to="/lectures/lecture08"
+            >Lecture 8 - CSS Selectors
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />

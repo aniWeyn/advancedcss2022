@@ -55,6 +55,28 @@
             >Laboratory 06a - 15.03.2021 - CSS Transitions</router-link
           >
         </li>
+        <li>
+          <router-link to="/laboratories/laboratory07"
+            >Laboratory 07 - 22.03.2021 - CSS Selectors - Combinators
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory07_02"
+            >Laboratory 07 - 22.03.2021 - CSS Selectors - Attribute Selectors
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory07_03"
+            >Laboratory 07 - 22.03.2021 - CSS Selectors: pseudo classes -
+            :nth-child()
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory07_04"
+            >Laboratory 07 - 22.03.2021 - CSS Selectors: pseudo classes -
+            :nth-last-child()
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />
