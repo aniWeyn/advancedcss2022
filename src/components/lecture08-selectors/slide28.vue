@@ -11,31 +11,20 @@
         Uses An+B notation to select elements from a list of sibling elements.
       </p>
     </section>
-
     <section>
       <pre>
           <code>
-.box:empty {
-  background: lime;
+:nth-child(4n) {
+  color: lime;
 }
             </code>
         </pre>
     </section>
+    <h4>Exercises</h4>
+    <router-link to="/laboratories/laboratory07_03"
+      >Laboratory 07 - Pseudo classes</router-link
+    >
   </div>
 </template>
 
-<style scoped>
-.inline {
-  display: flex;
-}
-
-.box {
-  background: pink;
-  height: 80px;
-  width: 80px;
-}
-
-.box:empty {
-  background: lime;
-}
-</style>
+<style scoped></style>

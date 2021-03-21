@@ -34,13 +34,18 @@
     <Slide28 v-if="render === 31" />
     <Slide29 v-if="render === 32" />
     <Slide30 v-if="render === 33" />
+    <Slide31 v-if="render === 34" />
+    <Slide32 v-if="render === 35" />
+    <Slide33 v-if="render === 36" />
+    <Slide34 v-if="render === 37" />
+    <Slide35 v-if="render === 38" />
 
     <div class="button-navigation">
       <div>
         <button v-if="render != 0" v-on:click="render -= 1">Back</button>
       </div>
       <div>
-        <button v-if="render != 33" v-on:click="render += 1">Next</button>
+        <button v-if="render != 38" v-on:click="render += 1">Next</button>
       </div>
     </div>
   </div>
@@ -81,6 +86,11 @@ import Slide27 from "@/components/lecture08-selectors/slide27.vue";
 import Slide28 from "@/components/lecture08-selectors/slide28.vue";
 import Slide29 from "@/components/lecture08-selectors/slide29.vue";
 import Slide30 from "@/components/lecture08-selectors/slide30.vue";
+import Slide31 from "@/components/lecture08-selectors/slide31.vue";
+import Slide32 from "@/components/lecture08-selectors/slide32.vue";
+import Slide33 from "@/components/lecture08-selectors/slide33.vue";
+import Slide34 from "@/components/lecture08-selectors/slide34.vue";
+import Slide35 from "@/components/lecture08-selectors/slide35.vue";
 
 export default {
   name: "Lecture00",
@@ -119,6 +129,11 @@ export default {
     Slide28,
     Slide29,
     Slide30,
+    Slide31,
+    Slide32,
+    Slide33,
+    Slide34,
+    Slide35,
   },
   data() {
     return {
