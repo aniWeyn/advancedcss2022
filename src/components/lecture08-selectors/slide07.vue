@@ -1,6 +1,11 @@
 <template>
   <div>
-    <h3>General sibling combinator</h3>
+    <a
+      target="_blank"
+      href="https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator"
+    >
+      <h3>General sibling combinator</h3></a
+    >
     <p>
       The ~ combinator selects siblings. This means that the second element
       follows the first (though not necessarily immediately), and both share the

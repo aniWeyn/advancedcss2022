@@ -1,6 +1,11 @@
 <template>
   <div>
-    <h3>Adjacent sibling combinator</h3>
+    <a
+      target="_blank"
+      href="https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_combinator"
+    >
+      <h3>Adjacent sibling combinator</h3></a
+    >
     <p>
       The + combinator selects adjacent siblings. This means that the second
       element directly follows the first, and both share the same parent.<br />

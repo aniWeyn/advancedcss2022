@@ -93,7 +93,7 @@ input[type="checkbox"]:checked {
 }
 
 /* Option elements, when selected */
-option:checked {
+option:selected {
   box-shadow: 0 0 0 3px lime;
   color: red;
 }

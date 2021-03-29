@@ -1,6 +1,11 @@
 <template>
   <div>
-    <h3>Descendant combinator</h3>
+    <a
+      target="_blank"
+      href="https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator"
+    >
+      <h3>Descendant combinator</h3></a
+    >
     <p>
       The (space) combinator selects nodes that are descendants of the first
       element. <br />

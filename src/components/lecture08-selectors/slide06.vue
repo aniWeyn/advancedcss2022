@@ -1,6 +1,11 @@
 <template>
   <div>
-    <h3>Child combinator</h3>
+    <a
+      target="_blank"
+      href="https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator"
+    >
+      <h3>Child combinator</h3></a
+    >
     <p>
       The > combinator selects nodes that are direct children of the first
       element.<br />

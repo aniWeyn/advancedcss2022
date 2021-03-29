@@ -1,6 +1,11 @@
 <template>
   <div>
-    <h3>CSS Selectors</h3>
+    <a
+      target="_blank"
+      href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors#combinators"
+    >
+      <h3>CSS Selectors</h3></a
+    >
     <p>CSS selectors define the elements to which a set of CSS rules apply.</p>
     <ul>
       <li>Basic selectors</li>
