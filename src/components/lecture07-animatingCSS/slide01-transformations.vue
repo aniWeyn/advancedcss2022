@@ -36,5 +36,10 @@
       by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>) on
       <a href="https://codepen.io">CodePen</a>.
     </iframe>
+    <a
+      target="_blank"
+      href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin"
+      >Transform-origin</a
+    >
   </div>
 </template>
