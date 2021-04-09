@@ -18,5 +18,23 @@
         ></span
       >
     </p>
+    <iframe
+      height="465"
+      style="width: 100%"
+      scrolling="no"
+      title="transform-origin illustration"
+      src="https://codepen.io/AniWeyn/embed/OJWzJgM?height=265&theme-id=light&default-tab=result"
+      frameborder="no"
+      loading="lazy"
+      allowtransparency="true"
+      allowfullscreen="true"
+    >
+      See the Pen
+      <a href="https://codepen.io/AniWeyn/pen/OJWzJgM"
+        >transform-origin illustration</a
+      >
+      by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>) on
+      <a href="https://codepen.io">CodePen</a>.
+    </iframe>
   </div>
 </template>
