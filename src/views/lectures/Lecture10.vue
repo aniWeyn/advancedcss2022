@@ -13,7 +13,6 @@
     <Slide10 v-if="render === 10" />
     <Slide11 v-if="render === 11" />
     <Slide12 v-if="render === 12" />
-    <Slide13 v-if="render === 13" />
 
     <div class="button-navigation">
       <div>
@@ -40,7 +39,6 @@ import Slide09 from "@/components/lecture10-webperformance/slide09.vue";
 import Slide10 from "@/components/lecture10-webperformance/slide10.vue";
 import Slide11 from "@/components/lecture10-webperformance/slide11.vue";
 import Slide12 from "@/components/lecture10-webperformance/slide12.vue";
-import Slide13 from "@/components/lecture10-webperformance/slide13.vue";
 
 export default {
   name: "Lecture00",
@@ -58,7 +56,6 @@ export default {
     Slide10,
     Slide11,
     Slide12,
-    Slide13,
   },
   data() {
     return {
