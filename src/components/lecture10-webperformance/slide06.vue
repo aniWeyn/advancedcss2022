@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>Intersection Observer JavaScript API Example</h3>
+    <h3>Intersection Observer JavaScript API Example 02</h3>
     <div>
       <iframe
         height="665"

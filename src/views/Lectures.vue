@@ -49,6 +49,16 @@
             >Lecture 8 - CSS Selectors
           </router-link>
         </li>
+        <li>
+          <router-link to="/lectures/lecture09"
+            >Lecture 9 - CSS Frameworks
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/lectures/lecture10"
+            >Lecture 10 - Performance (lazy loading, intersection observer)
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />

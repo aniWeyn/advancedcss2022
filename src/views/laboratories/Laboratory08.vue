@@ -8,8 +8,13 @@
       <hr />
       <h4>Exercise 1</h4>
       <p>
-        With a use of Network section in your browser test how the loading time
-        will be improved.
+        Read documentation about
+        <a
+          target="_blank"
+          href="https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading"
+          >lazy loading</a
+        >. With a use of Network section in your browser test how the loading
+        time will be improved.
       </p>
       <div class="two-columns">
         <div>

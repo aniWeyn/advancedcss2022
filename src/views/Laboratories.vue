@@ -77,6 +77,16 @@
             :nth-last-child()
           </router-link>
         </li>
+        <li>
+          <router-link to="/laboratories/laboratory08"
+            >Laboratory 08 - 19.04.2021 - Lazy Loading
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory08io"
+            >Laboratory 08 - 19.04.2021 - Intersection Observer API
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />

@@ -12,22 +12,31 @@
       typically happens on some user interactions such as scrolling and
       navigation.
     </p>
-
-    <pre>
+    <section>
+      <pre>
 loading="lazy"
           </pre
-    >
-    <p>
-      Defer loading of the iframe until it reaches a calculated distance from
-      the viewport, as defined by the browser.
-    </p>
-    <pre>
+      >
+      <p>
+        Defer loading of the iframe until it reaches a calculated distance from
+        the viewport, as defined by the browser.
+      </p>
+    </section>
+    <section>
+      <pre>
 loading="eager"
           </pre
-    >
-    <p>
-      Load the iframe immediately, regardless if it is outside the visible
-      viewport (this is the default value).
-    </p>
+      >
+      <p>
+        Load the iframe immediately, regardless if it is outside the visible
+        viewport (this is the default value).
+      </p>
+    </section>
   </div>
 </template>
+
+<style scoped>
+section {
+  padding: 30px 0px;
+}
+</style>

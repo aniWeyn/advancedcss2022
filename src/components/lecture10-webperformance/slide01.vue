@@ -41,3 +41,9 @@
     />
   </div>
 </template>
+
+<style>
+img.img {
+  width: 40%;
+}
+</style>
