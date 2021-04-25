@@ -87,6 +87,16 @@
             >Laboratory 08 - 19.04.2021 - Intersection Observer API
           </router-link>
         </li>
+        <li>
+          <router-link to="/laboratories/laboratory09flex"
+            >Laboratory 09 - 26.04.2021 - Flexbox
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory09grid"
+            >Laboratory 09 - 26.04.2021 - CSS Grid
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />

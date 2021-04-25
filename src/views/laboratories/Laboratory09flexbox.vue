@@ -154,6 +154,16 @@ align-content: center;
         </pre>
       </code>
     </section>
+    <section>
+      <h3>Test yourself!</h3>
+      <p>
+        Imagine that graphic designer asked you to implement a widget card. Test
+        your Flexbox skills and impement the card. Note the placing of the
+        elements and try to reflect the design as much as possible.
+      </p>
+      <img class="img" src="../../assets/images/lab09flex_02.png" alt="" />
+      <img class="img" src="../../assets/images/lab09flex.png" alt="" />
+    </section>
   </div>
 </template>
 
@@ -244,5 +254,10 @@ align-content: center;
 .flex-align > .box:nth-child(3) {
   font-size: 24px;
   width: 110px;
+}
+
+.img {
+  width: 20vw;
+  padding: 5vw;
 }
 </style>
