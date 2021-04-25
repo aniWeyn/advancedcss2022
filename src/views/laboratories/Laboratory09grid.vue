@@ -121,6 +121,16 @@ height: 100vh;
           </pre
       >
     </code>
+    <section>
+      <h3>Test yourself!</h3>
+      <p>
+        Imagine that graphic designer asked you to implement user header. Test
+        your CSS Grid skills and impement the header. Note the placing of the
+        elements and try to reflect the design as much as possible.
+      </p>
+      <img class="img" src="../../assets/images/lab09grid_02.png" alt="" />
+      <img class="img2" src="../../assets/images/lab09grid.png" alt="" />
+    </section>
   </div>
 </template>
 
@@ -177,5 +187,15 @@ height: 100vh;
     ". . ."
     "red red red"
     ". blue blue";
+}
+
+.img {
+  width: 20vw;
+  padding: 5vw;
+}
+
+.img2 {
+  width: 60vw;
+  padding: 5vw;
 }
 </style>
