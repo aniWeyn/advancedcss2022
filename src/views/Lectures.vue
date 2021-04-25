@@ -59,6 +59,11 @@
             >Lecture 10 - Performance (lazy loading, intersection observer)
           </router-link>
         </li>
+        <li>
+          <router-link to="/lectures/lecture11"
+            >Lecture 11 - Flexbox, CSS Grid, CSS Units, Text Effects
+          </router-link>
+        </li>
       </ul>
     </article>
     <Sidebar />
