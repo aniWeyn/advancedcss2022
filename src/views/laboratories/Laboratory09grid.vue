@@ -134,7 +134,7 @@ height: 100vh;
   </div>
 </template>
 
-<style>
+<style scoped>
 .one {
   background-color: #2a9d8fff;
 }
