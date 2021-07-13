@@ -1,6 +1,6 @@
 # advanced_css
 
-Advanced CSS course project
+Advanced CSS course project for NTNU
 
 ## Project setup
 ```
