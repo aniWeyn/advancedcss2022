@@ -1,5 +1,7 @@
 # advanced_css
 
+Advanced CSS course project
+
 ## Project setup
 ```
 npm install
