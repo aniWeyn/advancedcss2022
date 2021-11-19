@@ -1,7 +1,7 @@
 <template>
   <div class="slide">
-    <h1>Where is used Advanced CSS?</h1>
-    <h3 class="space--large">Design systems/UI Frameworks</h3>
+    <h3>Where is used Advanced CSS?</h3>
+    <h4 class="space">Design systems/UI Frameworks</h4>
     <p class="space">
       <a target="_blank" href="https://spectrum.adobe.com/"
         >Adobe Design System</a
@@ -20,7 +20,7 @@
         </a>
       
     </p>
-    <h3 class="space--large">Design studios</h3>
+    <h4 class="space">Design studios</h4>
     <p class="space">
       <a target="_blank" href="https://fundacion33.com/">fundacion33</a>
     </p>

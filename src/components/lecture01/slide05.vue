@@ -1,7 +1,7 @@
 <template>
   <div class="slide">
-    <h1>What we will use?</h1>
-    <h3 class="space--large">Blackboard</h3>
+    <h3>What we will use?</h3>
+    <h4 class="space">Blackboard</h4>
     <p class="space">
       On Blackboard in Undervisningsmateriell folder there is a file Basic
       sources. <br />This file will be updated about the topics we will be

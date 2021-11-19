@@ -2,13 +2,13 @@
   <div class="lecture">
     <Slide00 v-if="render === 0" />
     <Slide01 v-if="render === 1" />
-    <Slide02 v-if="render === 2" />
+    <!--<Slide02 v-if="render === 2" />
     <Slide03 v-if="render === 3" />
-    <Slide04 v-if="render === 4" />
-    <Slide05 v-if="render === 5" />
-    <Slide06 v-if="render === 6" />
-    <Slide07 v-if="render === 7" />
-    <Slide08 v-if="render === 8" />
+    <Slide04 v-if="render === 2" />-->
+    <Slide05 v-if="render === 2" />
+    <Slide06 v-if="render === 3" />
+    <Slide07 v-if="render === 4" />
+    <Slide08 v-if="render === 5" />
     <div class="button-navigation">
       <button v-if="render != 0" v-on:click="render -= 1">Back</button>
       <button v-if="render != 8" v-on:click="render += 1">Next</button>
@@ -19,9 +19,9 @@
 <script>
 import Slide00 from "@/components/lecture01/slide00.vue";
 import Slide01 from "@/components/lecture01/slide01.vue";
-import Slide02 from "@/components/lecture01/slide02.vue";
-import Slide03 from "@/components/lecture01/slide03.vue";
-import Slide04 from "@/components/lecture01/slide04.vue";
+//import Slide02 from "@/components/lecture01/slide02.vue";
+//import Slide03 from "@/components/lecture01/slide03.vue";
+// import Slide04 from "@/components/lecture01/slide04.vue";
 import Slide05 from "@/components/lecture01/slide05.vue";
 import Slide06 from "@/components/lecture01/slide06.vue";
 import Slide07 from "@/components/lecture01/slide07.vue";
@@ -39,9 +39,9 @@ export default {
   components: {
     Slide00,
     Slide01,
-    Slide02,
-    Slide03,
-    Slide04,
+    //Slide02,
+    //Slide03,
+    //Slide04,
     Slide05,
     Slide06,
     Slide07,
