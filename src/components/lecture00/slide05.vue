@@ -18,6 +18,7 @@
       </div>
       <div>
         <ul>
+          <li>Assignment 0 (not graded), Blackboard, 14.01</li>
           <li>Assignment 1 (pass/fail), Blackboard, 31.01</li>
           <li>Assignment 2 (pass/fail), Blackboard, 07.03</li>
           <li>Assignment 3 (pass/fail), Blackboard, 25.04</li>
