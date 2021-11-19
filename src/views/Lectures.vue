@@ -9,12 +9,17 @@
             >Lecture 0 - Course organisation, schedule and assignments</router-link
           >
         </li>
-        <!--<li>
+        <li>
           <router-link to="/lectures/lecture01"
             >Lecture 1 - Advanced CSS, let's begin!</router-link
           >
         </li>
         <li>
+          <router-link to="/lectures/lecture08"
+            >Lecture 2 - CSS Selectors
+          </router-link>
+        </li>
+        <!--<li>
           <router-link to="/lectures/lecture02"
             >Lecture 2 - Architecting CSS</router-link
           >
@@ -42,11 +47,6 @@
         <li>
           <router-link to="/lectures/lecture07"
             >Lecture 7 - Animating CSS
-          </router-link>
-        </li>
-        <li>
-          <router-link to="/lectures/lecture08"
-            >Lecture 8 - CSS Selectors
           </router-link>
         </li>
         <li>
