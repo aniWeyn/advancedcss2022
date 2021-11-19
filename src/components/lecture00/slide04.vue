@@ -10,7 +10,7 @@
     </ul>
     If passed all obligatory assignments:
     <ul>
-      <li>Individual Report (pass/fail), Insperia, deadline: 14.05</li>
+      <li>Individual Report (pass/fail), Insperia, deadline: TBA</li>
     </ul>
   </div>
 </template>
