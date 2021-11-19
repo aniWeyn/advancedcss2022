@@ -9,7 +9,7 @@
             >Lecture 0 - Course organisation, schedule and assignments</router-link
           >
         </li>
-        <li>
+        <!--<li>
           <router-link to="/lectures/lecture01"
             >Lecture 1 - Advanced CSS, let's begin!</router-link
           >
@@ -63,7 +63,7 @@
           <router-link to="/lectures/lecture11"
             >Lecture 11 - Flexbox, CSS Grid, CSS Units, Text Effects
           </router-link>
-        </li>
+        </li>-->
       </ul>
     </article>
     <Sidebar />
