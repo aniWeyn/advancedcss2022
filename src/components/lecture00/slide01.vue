@@ -18,10 +18,9 @@
     <p class="space">
       I have 5 years working experience as Software Developer.
       <br />
-      Currently I work as Consultant for Inmeta Consluting AS where I work with
-      UX Design, UI Design and Front-end development.
+      Currently I with UX Design, UI Design, Front-end development and Project Management.
       <br />
-      I worked for Norwegian companies such as KPMG Norway, Aprila Bank, System
+      I worked for Norwegian companies such as Inmeta, KPMG Norway, Aprila Bank, System
       Partner Norge, Azzista Sports Innovations.
     </p>
   </div>
