@@ -6,7 +6,7 @@
       <ul>
         <li>
           <router-link to="/lectures/lecture00"
-            >Lecture 0 - Welcome and Course organisation</router-link
+            >Lecture 0 - Course organisation, schedule and assignments</router-link
           >
         </li>
         <li>
