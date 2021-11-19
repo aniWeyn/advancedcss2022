@@ -5,35 +5,21 @@
         <h2 class="rotate">Assignment 0</h2>
       </div>
       <div>
-        Deadline: 01.02, 08:15
-        <ul>
-          <li>Group contract</li>
-          <li>Text of choice for Final Project</li>
-        </ul>
+        <h3>Group Contract</h3>
+        Deadline: 14.01, 23:59
         <p class="space">
-          In group contract you are expected to write the particiapnts of the
-          group, decide how much work you will put into the course, when will be
-          your meetings, how you will solve the conflicts.
+          In group contract you are expected to:
+          <ul>
+            <li>write particiapnts of the group</li>
+            <li>decide on how much work you will put into the course (weekly in hours)</li>
+            <li>when and where you will meet to work on the course (day of the week and place)</li>
+            <li>how you will solve the conflicts</li>
+          </ul>
         </p>
-        <p class="space">
-          Withing your group choose a text to animate from the proposed texts or
-          propose the text to your group.
-        </p>
-        <p class="space">Proposed texts:</p>
-        <ul>
-          <li>Wisława Szymborska - A Contribution to Statistics</li>
-          <li>Joni Mitchell - Favorite Colour</li>
-          <li>
-            Interaction Design Admission -
-            https://www.ntnu.edu/studies/mixd/admission
-          </li>
-          <li>
-            Webutvikling Admission - https://www.ntnu.no/studier/bwu/opptak
-          </li>
-          <li>Text of your choice</li>
-        </ul>
+        You cannot change your group during semester. Request to remove student from the group is consider as failure. You need to work on keeping everyone engaged.
+
       </div>
-      <div>
+      <!--<div>
         <ul class="font--small">
           <li class="past">January 18 - Lecture: Introduction</li>
           <li class="past">January 25 - Advanced CSS</li>
@@ -53,7 +39,7 @@
           <li>April 26 or May 03 - Final Presentation</li>
           <li>May, 14 - Individual report</li>
         </ul>
-      </div>
+      </div>-->
     </div>
   </div>
 </template>

@@ -4,28 +4,24 @@
     <div class="two-columns">
       <div>
         <div class="space">
-          All assignments are project oriented. <br />We will work on animating
-          a text.
+          All assignments are practice oriented. <br />
         </div>
         <div class="space">
-          In the Assignment 1 you will design the animation.
+          Everyone must contribute to the project by writing CSS and HTML. Copy pasting SVG code to project doesn't count as contribution.
         </div>
         <div class="space">
-          In Assignment 2 you will develop first version of your animation
-          ("developer" release), in that assignment you are supposed to apply
-          concepts discussed during the lectures.
+          Your project needs to be way better than what you submitted in Carlos course (IDG1292 - Webkoding).
         </div>
         <div class="space">
-          In Assignment 3 you are supposed to provide the high quality
-          "production" release.
+          Everyone needs to use CodePen and GitHub, I will be checking Insights tab to see that the work is distributed equally and that everyone is contributing. 
         </div>
       </div>
       <div>
         <ul>
-          <li>Assignment 1 (pass/fail), Blackboard, 15.02</li>
-          <li>Assignment 2 (pass/fail), Blackboard, 05.04</li>
-          <li>Assignment 3 (pass/fail), Blackboard, 19.04</li>
-          <li>Individual report, Inspera, 14.05</li>
+          <li>Assignment 1 (pass/fail), Blackboard, 31.01</li>
+          <li>Assignment 2 (pass/fail), Blackboard, 07.03</li>
+          <li>Assignment 3 (pass/fail), Blackboard, 25.04</li>
+          <li>Individual report, Inspera, TBA</li>
         </ul>
       </div>
     </div>
