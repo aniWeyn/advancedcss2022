@@ -11,7 +11,7 @@
     <Slide08 v-if="render === 5" />
     <div class="button-navigation">
       <button v-if="render != 0" v-on:click="render -= 1">Back</button>
-      <button v-if="render != 8" v-on:click="render += 1">Next</button>
+      <button v-if="render != 5" v-on:click="render += 1">Next</button>
     </div>
   </div>
 </template>
