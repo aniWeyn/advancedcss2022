@@ -3,20 +3,20 @@
     <h2>Individual Report</h2>
     <div class="two-columns">
       <div>
-        deadline: 14.05
+        deadline: TBA
         <p class="space">7-10 pages report, individual work.</p>
         <p class="space">Individual report will consist of two parts.</p>
         <p class="space">
-          Part one - reflection over five technical topics related to Advanced
+          Part one - reflection over few technical topics related to Advanced
           CSS course (such as accessibility, performance, preprocessors, open
-          source frameworks, CSS features and standarization process).
+          source frameworks, CSS features and standarization process etc.).
         </p>
         <p class="space">
           Part two - reflection over your individual participation in the course
           and your contribution to the group work.
         </p>
       </div>
-      <div>
+      <!--<div>
         <ul class="font--small">
           <li class="past">January 18 - Lecture: Introduction</li>
           <li class="past">January 25 - Advanced CSS</li>
@@ -40,7 +40,7 @@
           <li class="past">April 26 or May 03 - Final Presentation</li>
           <li class="bold">May, 14 - Individual report</li>
         </ul>
-      </div>
+      </div>-->
     </div>
   </div>
 </template>
