@@ -5,24 +5,17 @@
         <h2 class="rotate">Assignment 1</h2>
       </div>
       <div>
-        deadline: 15.02, 08:15
-        <p class="space">Designing for animation</p>
+        <h3>CodePen Project</h3>
+        deadline: 31.01, 08:15
         <p class="space">
-          Within your group create a low fidelity wireframes of animaton. Don't
-          worry about any technological constrains. Focus on the meaning of the
-          text, its' visualisation and storytelling potential. However your
-          wireframes should be planned for mobile, tablet and desktop screens.
-          As well you should reflect upon accessibility.
+          Your group will need to draw and animate in CSS few object, a truck, TBA, TBA, TBA. 
+          The object needs to be draw individually and later connect into one project. To common project you need to add backgroud.
         </p>
         <p class="space">
-          Blackboard: upload the designs in form of PDF with around one page
-          explanation of project idea and how you could assure accessibility
-        </p>
-        <p class="space">
-          You will present your concept at 15th of Feburary lecture.
+          Blackboard: upload link to individual code pen of every group member, and a link to the project which consist of your individual work. 
         </p>
       </div>
-      <div>
+      <!--<div>
         <ul class="font--small">
           <li class="past">January 18 - Lecture: Introduction</li>
           <li class="past">January 25 - Advanced CSS</li>
@@ -46,7 +39,7 @@
           <li>April 26 or May 03 - Final Presentation</li>
           <li>May, 14 - Individual report</li>
         </ul>
-      </div>
+      </div>-->
     </div>
   </div>
 </template>
