@@ -19,6 +19,11 @@
             >Lecture 2 - CSS Selectors
           </router-link>
         </li>
+        <li>
+          <router-link to="/lectures/lecture07"
+            >Lecture 3 - Animating CSS
+          </router-link>
+        </li>
         <!--<li>
           <router-link to="/lectures/lecture02"
             >Lecture 2 - Architecting CSS</router-link
@@ -42,11 +47,6 @@
         <li>
           <router-link to="/lectures/lecture06"
             >Lecture 6 - Animating SVG
-          </router-link>
-        </li>
-        <li>
-          <router-link to="/lectures/lecture07"
-            >Lecture 7 - Animating CSS
           </router-link>
         </li>
         <li>
