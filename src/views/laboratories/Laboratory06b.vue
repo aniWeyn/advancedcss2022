@@ -10,7 +10,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-matrix"
-        src="https://codepen.io/AniWeyn/embed/rNWRWLd?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/rNWRWLd?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -29,7 +29,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--02-transform-matrix3d"
-        src="https://codepen.io/AniWeyn/embed/zYobowJ?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/zYobowJ?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -48,7 +48,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-translate-01"
-        src="https://codepen.io/AniWeyn/embed/xxRBRLM?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/xxRBRLM?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -61,13 +61,36 @@
         by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>) on
         <a href="https://codepen.io">CodePen</a>.
       </iframe>
+      <h4>Example of Translate</h4>
+      <p>
+        Here translation is about 100%, note the change between px and %. The
+        object will be moved about equivalent distanceof its own width.
+      </p>
+      <iframe
+        height="300"
+        style="width: 100%;"
+        scrolling="no"
+        title="CSS-Transition--03-transform-translate-01"
+        src="https://codepen.io/AniWeyn/embed/pormJgv?default-tab=css%2Cresult"
+        frameborder="no"
+        loading="lazy"
+        allowtransparency="true"
+        allowfullscreen="true"
+      >
+        See the Pen
+        <a href="https://codepen.io/AniWeyn/pen/pormJgv">
+          CSS-Transition--03-transform-translate-01</a
+        >
+        by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>) on
+        <a href="https://codepen.io">CodePen</a>.
+      </iframe>
       <h4>Example of TranslateY</h4>
       <iframe
         height="450"
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-translate-02"
-        src="https://codepen.io/AniWeyn/embed/YzpgpEz?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/YzpgpEz?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -86,7 +109,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-translate-04"
-        src="https://codepen.io/AniWeyn/embed/RwodoxP?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/RwodoxP?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -105,7 +128,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-translate3d"
-        src="https://codepen.io/AniWeyn/embed/JjbzbMV?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/JjbzbMV?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -124,7 +147,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-scale"
-        src="https://codepen.io/AniWeyn/embed/rNWRWrq?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/rNWRWrq?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -143,7 +166,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-scale-02"
-        src="https://codepen.io/AniWeyn/embed/Rwodoea?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/Rwodoea?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -162,7 +185,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-scale-03"
-        src="https://codepen.io/AniWeyn/embed/GRNeNwj?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/GRNeNwj?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -181,7 +204,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-scale-03"
-        src="https://codepen.io/AniWeyn/embed/eYBXBbQ?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/eYBXBbQ?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -200,7 +223,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-rotate"
-        src="https://codepen.io/AniWeyn/embed/NWbJbow?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/NWbJbow?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -219,7 +242,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-rotate"
-        src="https://codepen.io/AniWeyn/embed/poNYNBK?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/poNYNBK?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -238,7 +261,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-rotate"
-        src="https://codepen.io/AniWeyn/embed/dyOrOEY?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/dyOrOEY?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -251,13 +274,20 @@
         by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>) on
         <a href="https://codepen.io">CodePen</a>.
       </iframe>
+      <p>Notice what will happen if you will swap order in transfor property.</p>
+      <p>The order you apply each transformation in will affect the overall look.</p>
+      <iframe height="300" style="width: 100%;" scrolling="no" title="CSS-Transition--03-transform-rotate" src="https://codepen.io/AniWeyn/embed/NWvVqpQ?default-tab=css%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/AniWeyn/pen/NWvVqpQ">
+  CSS-Transition--03-transform-rotate</a> by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
       <h4>Example of Rotate3d</h4>
       <iframe
         height="450"
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-rotate3d"
-        src="https://codepen.io/AniWeyn/embed/vYyPyqK?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/vYyPyqK?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"
@@ -276,7 +306,7 @@
         style="width: 100%"
         scrolling="no"
         title="CSS-Transition--03-transform-skew"
-        src="https://codepen.io/AniWeyn/embed/rNWRWXR?height=265&theme-id=dark&default-tab=result"
+        src="https://codepen.io/AniWeyn/embed/rNWRWXR?height=265&theme-id=dark&default-tab=css%2Cresult"
         frameborder="no"
         loading="lazy"
         allowtransparency="true"

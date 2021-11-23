@@ -21,7 +21,7 @@
         </li>
         <li>
           <router-link to="/lectures/lecture07"
-            >Lecture 3 - Animating CSS
+            >Lecture 3 - CSS Shapes, Transformations, Transitions and Animations
           </router-link>
         </li>
         <!--<li>
