@@ -3,29 +3,30 @@
     <Slide00 v-if="render === 0" />
     <Slide01Shapes v-if="render === 1" />
     <Slide01Transform v-if="render === 2" />
-    <Slide02 v-if="render === 3" />
-    <Slide03 v-if="render === 4" />
-    <Slide04 v-if="render === 5" />
-    <Slide04a v-if="render === 6" />
-    <Slide05 v-if="render === 7" />
-    <Slide06 v-if="render === 8" />
-    <Slide07 v-if="render === 9" />
-    <Slide08 v-if="render === 10" />
-    <Slide09 v-if="render === 11" />
-    <Slide10 v-if="render === 12" />
-    <Slide11 v-if="render === 13" />
-    <Slide12 v-if="render === 14" />
-    <Slide13 v-if="render === 15" />
-    <Slide14 v-if="render === 16" />
-    <Slide15 v-if="render === 17" />
-    <Slide16 v-if="render === 18" />
-    <Slide17 v-if="render === 19" />
+    <Slide013dTransformations v-if="render === 3" />
+    <Slide02 v-if="render === 4" />
+    <Slide03 v-if="render === 5" />
+    <Slide04 v-if="render === 6" />
+    <Slide04a v-if="render === 7" />
+    <Slide05 v-if="render === 8" />
+    <Slide06 v-if="render === 9" />
+    <Slide07 v-if="render === 10" />
+    <Slide08 v-if="render === 11" />
+    <Slide09 v-if="render === 12" />
+    <Slide10 v-if="render === 13" />
+    <Slide11 v-if="render === 14" />
+    <Slide12 v-if="render === 15" />
+    <Slide13 v-if="render === 16" />
+    <Slide14 v-if="render === 17" />
+    <Slide15 v-if="render === 18" />
+    <Slide16 v-if="render === 19" />
+    <Slide17 v-if="render === 20" />
     <div class="button-navigation">
       <div>
         <button v-if="render != 0" v-on:click="render -= 1">Back</button>
       </div>
       <div>
-        <button v-if="render != 19" v-on:click="render += 1">Next</button>
+        <button v-if="render != 20" v-on:click="render += 1">Next</button>
       </div>
     </div>
   </div>
@@ -35,6 +36,7 @@
 import Slide00 from "@/components/lecture07-animatingCSS/slide00.vue";
 import Slide01Shapes from "@/components/lecture07-animatingCSS/slide01-css-shapes.vue";
 import Slide01Transform from "@/components/lecture07-animatingCSS/slide01-transformations.vue";
+import Slide013dTransformations from "@/components/lecture07-animatingCSS/slide01-transformations3d.vue";
 import Slide02 from "@/components/lecture07-animatingCSS/slide02.vue";
 import Slide03 from "@/components/lecture07-animatingCSS/slide03.vue";
 import Slide04 from "@/components/lecture07-animatingCSS/slide04.vue";
@@ -59,6 +61,7 @@ export default {
     Slide00,
     Slide01Shapes,
     Slide01Transform,
+    Slide013dTransformations,
     Slide02,
     Slide03,
     Slide04,
