@@ -2,22 +2,22 @@
   <div class="lecture">
     <Slide00 v-if="render === 0" />
     <Slide01 v-if="render === 1" />
-    <Slide02 v-if="render === 2" />
-    <Slide03 v-if="render === 3" />
-    <Slide04 v-if="render === 4" />
-    <Slide05 v-if="render === 5" />
-    <Slide06 v-if="render === 6" />
-    <Slide07 v-if="render === 7" />
-    <Slide08 v-if="render === 8" />
-    <Slide09 v-if="render === 9" />
-    <Slide10 v-if="render === 10" />
-    <Slide11 v-if="render === 11" />
-    <Slide12 v-if="render === 12" />
-    <Slide13 v-if="render === 13" />
-    <Slide14 v-if="render === 14" />
+    <!--<Slide02 v-if="render === 2" />-->
+    <Slide03 v-if="render === 2" />
+    <Slide04 v-if="render === 3" />
+    <Slide05 v-if="render === 4" />
+    <Slide06 v-if="render === 5" />
+    <Slide07 v-if="render === 6" />
+    <Slide08 v-if="render === 7" />
+    <Slide09 v-if="render === 8" />
+    <Slide10 v-if="render === 9" />
+    <Slide11 v-if="render === 10" />
+    <Slide12 v-if="render === 11" />
+    <Slide13 v-if="render === 12" />
+    <Slide14 v-if="render === 13" />
     <div class="button-navigation">
       <button v-if="render != 0" v-on:click="render -= 1">Back</button>
-      <button v-if="render != 14" v-on:click="render += 1">Next</button>
+      <button v-if="render != 13" v-on:click="render += 1">Next</button>
     </div>
   </div>
 </template>
@@ -25,7 +25,7 @@
 <script>
 import Slide00 from "@/components/lecture00/slide00.vue";
 import Slide01 from "@/components/lecture00/slide01.vue";
-import Slide02 from "@/components/lecture00/slide02.vue";
+/*import Slide02 from "@/components/lecture00/slide02.vue";*/
 import Slide03 from "@/components/lecture00/slide03.vue";
 import Slide04 from "@/components/lecture00/slide04.vue";
 import Slide05 from "@/components/lecture00/slide05.vue";
@@ -44,7 +44,7 @@ export default {
   components: {
     Slide00,
     Slide01,
-    Slide02,
+    /*Slide02,*/
     Slide03,
     Slide04,
     Slide05,
