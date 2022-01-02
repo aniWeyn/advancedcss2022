@@ -30,7 +30,28 @@
           invited for a final presentation. During final presentation you could
           gather wider feedback on your work.
         </p>
+        <img
+          class="img"
+          src="../../assets/images/l01-exampleOfInsights.png"
+          alt="Example of Separation Of Concerns"
+        />
+        <img
+          class="img"
+          src="../../assets/images/l01-exampleOfContributionCheck.png"
+          alt="Example of Separation Of Concerns"
+        />
+        <img
+          class="img"
+          src="../../assets/images/l01-exampleOfNotEnoughContribution.png"
+          alt="Example of Separation Of Concerns"
+        />
       </div>
     </div>
   </div>
 </template>
+
+<style scoped>
+.img{
+  max-width:500px;
+}
+</style>
