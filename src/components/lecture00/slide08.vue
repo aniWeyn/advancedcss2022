@@ -13,11 +13,28 @@
         <p class="space">
           Where are you aiming:
           <ul>
-            <li><a href="https://thanks-in-advance.com/">https://thanks-in-advance.com/</a></li>
-            <li><a href="TBA">TBA</a></li>
+            <li><a target="_blank" href="https://thanks-in-advance.com/">https://thanks-in-advance.com/</a></li>
+            <li><a target="_blank" href="http://everylastdrop.co.uk/">http://everylastdrop.co.uk/</a></li>
+            <li><a target="_blank" href="http://www.species-in-pieces.com/">http://www.species-in-pieces.com/</a></li>
+            <li><a target="_blank" href="https://www.evanshalshaw.com/more/bondcars">https://www.evanshalshaw.com/more/bondcars</a></li>
+            <li><a target="_blank" href="http://rice.jennytypes.com/">http://rice.jennytypes.com/</a></li>
+            <li><a target="_blank" href="https://www.lemonade.com/giveback-2021">https://www.lemonade.com/giveback-2021</a></li>
+            <li><a target="_blank" href="https://lpalo.com/">https://lpalo.com/</a></li>
+            <li><a target="_blank" href="https://www.qurieux.fr/en/">https://www.qurieux.fr/en/</a></li>
+            <li><a target="_blank" href="https://www.lobelia.earth/">https://www.lobelia.earth/</a></li>
           </ul>
-          
           </p>
+
+          <p class="space">
+          Find more inspirations:
+          <ul>
+            
+            <li><a target="_blank" href="https://www.cssdesignawards.com/">https://www.cssdesignawards.com/</a></li>
+            <li><a target="_blank" href="https://www.csswinner.com/">https://www.csswinner.com/</a></li>
+          </ul>
+          </p>
+
+          
 
       </div>
       <div>

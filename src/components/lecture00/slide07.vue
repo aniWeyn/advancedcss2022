@@ -8,11 +8,11 @@
         <h3>CodePen Project</h3>
         deadline: 31.01, 08:15
         <p class="space">
-          Your group will need to draw and animate in CSS few object, a truck, TBA, TBA, TBA. 
-          The object needs to be draw individually and later connect into one project. To common project you need to add backgroud.
+          Your group will need to draw and animate in CSS few objects. 
+          The object needs to be draw individually and later connected into one project.
         </p>
         <p class="space">
-          Blackboard: upload link to individual code pen of every group member, and a link to the project which consist of your individual work. 
+          Blackboard: upload link to individual code pen of every group member, and a link to connected project. 
         </p>
       </div>
       <!--<div>

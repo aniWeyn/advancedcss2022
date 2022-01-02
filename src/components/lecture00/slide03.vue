@@ -28,3 +28,9 @@
     </ul>
   </div>
 </template>
+
+<style scoped>
+li{
+  list-style-type:none;
+}
+</style>
