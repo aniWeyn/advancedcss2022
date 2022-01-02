@@ -5,7 +5,7 @@
     <h2>I cannot be on lecture, what to do?</h2>
     <p class="space">All lectures will be available in form of website and will be linked on BB.</p>
     <h2>How to succeed?</h2>
-    <p class="space">Check topic discussed during lectures and laboratories. 
+    <p class="space">Check topics discussed during lectures and laboratories. 
       Try to put them into practice and use creatively, expand on them.
       Work on your own! Lectures and laboratories are only guide to help you survive in this jungle of information.
       </p>
