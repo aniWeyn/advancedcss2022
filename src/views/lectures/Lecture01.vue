@@ -1,18 +1,14 @@
 <template>
   <div class="lecture">
-    <Slide00 v-if="render === 0" />
-    <Slide01 v-if="render === 1" />
+    <Slide00 />
+    <Slide01 />
     <!--<Slide02 v-if="render === 2" />
     <Slide03 v-if="render === 3" />
     <Slide04 v-if="render === 2" />-->
-    <Slide05 v-if="render === 2" />
-    <Slide06 v-if="render === 3" />
-    <Slide07 v-if="render === 4" />
-    <Slide08 v-if="render === 5" />
-    <div class="button-navigation">
-      <button v-if="render != 0" v-on:click="render -= 1">Back</button>
-      <button v-if="render != 5" v-on:click="render += 1">Next</button>
-    </div>
+    <Slide05 />
+    <Slide06 />
+    <Slide07 />
+    <Slide08 />
   </div>
 </template>
 
@@ -68,6 +64,10 @@ export default {
 </script>
 
 <style>
+.slide{
+  min-height: 100vh;
+}
+
 .space {
   padding-bottom: 5px;
 }

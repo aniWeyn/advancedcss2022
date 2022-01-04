@@ -5,7 +5,7 @@
         <h2 class="rotate">Assignment 2</h2>
       </div>
       <div>
-        <h3>Storytelling and design for animation. GitHub project beginning.</h3>
+        <h3>Scrollytelling/Storytelling and design for animation. GitHub project beginning.</h3>
         deadline: 07.03, 08:15
         <p class="space">
           In Assignment 2 your group is expected to deliver a design of the project you will later develop as Assignment 3 (your final project). As well as started project on GitHub repository.
@@ -13,12 +13,14 @@
         <p class="space">
           Where are you aiming:
           <ul>
-            <li><a target="_blank" href="https://thanks-in-advance.com/">https://thanks-in-advance.com/</a></li>
-            <li><a target="_blank" href="http://everylastdrop.co.uk/">http://everylastdrop.co.uk/</a></li>
+            <li><a target="_blank" href="https://webflow.com/web-design-art-history">https://webflow.com/web-design-art-history</a></li>
+            <li><a target="_blank" href="https://www.lemonade.com/giveback-2021">https://www.lemonade.com/giveback-2021</a></li>
             <li><a target="_blank" href="http://www.species-in-pieces.com/">http://www.species-in-pieces.com/</a></li>
+            <li><a target="_blank" href="https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html">https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html</a></li>
+            <li><a target="_blank" href="https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/">https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/"</a></li>
+            <li><a target="_blank" href="http://everylastdrop.co.uk/">http://everylastdrop.co.uk/</a></li>
             <li><a target="_blank" href="https://www.evanshalshaw.com/more/bondcars">https://www.evanshalshaw.com/more/bondcars</a></li>
             <li><a target="_blank" href="http://rice.jennytypes.com/">http://rice.jennytypes.com/</a></li>
-            <li><a target="_blank" href="https://www.lemonade.com/giveback-2021">https://www.lemonade.com/giveback-2021</a></li>
             <li><a target="_blank" href="https://lpalo.com/">https://lpalo.com/</a></li>
             <li><a target="_blank" href="https://www.qurieux.fr/en/">https://www.qurieux.fr/en/</a></li>
             <li><a target="_blank" href="https://www.lobelia.earth/">https://www.lobelia.earth/</a></li>
