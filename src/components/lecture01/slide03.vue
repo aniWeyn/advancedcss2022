@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h1>What we will use?</h1>
     <h3>Flexbox</h3>
     <p class="space">

@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>What we will use?</h3>
     <h4 class="space">Blackboard</h4>
     <p class="space">

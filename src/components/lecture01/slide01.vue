@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Where to learn about CSS?</h3>
     <p class="space">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"

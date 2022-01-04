@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Where is used Advanced CSS?</h3>
     <h4 class="space">Design systems/UI Frameworks</h4>
     <p class="space">
