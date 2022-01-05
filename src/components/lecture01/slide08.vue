@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Laboratories</h3>
     <ul>
       <li>Join your group</li>

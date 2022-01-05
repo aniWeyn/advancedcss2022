@@ -1,13 +1,26 @@
 <template>
   <div class="lecture">
     <Slide00 />
+    <Slide05 />
     <Slide01 />
     <!--<Slide02 v-if="render === 2" />
     <Slide03 v-if="render === 3" />
     <Slide04 v-if="render === 2" />-->
-    <Slide05 />
     <Slide06 />
     <Slide07 />
+    
+    <Slide09 />
+    <Infinite />
+    <Parallax />
+    <HorizontalScrolling />
+    <ScrollingDistance />
+    <ScrollingTimeline />
+    
+    <ScrollingSteps />
+    <ScrollingStoryData />
+    
+    <TransitionsVisualisations />
+    <ScrollytellingLearnmore />
     <Slide08 />
   </div>
 </template>
@@ -22,13 +35,16 @@ import Slide05 from "@/components/lecture01/slide05.vue";
 import Slide06 from "@/components/lecture01/slide06.vue";
 import Slide07 from "@/components/lecture01/slide07.vue";
 import Slide08 from "@/components/lecture01/slide08.vue";
-/*import Slide08 from "@/components/lecture01/slide08.vue";
 import Slide09 from "@/components/lecture01/slide09.vue";
-import Slide10 from "@/components/lecture01/slide10.vue";
-import Slide11 from "@/components/lecture01/slide11.vue";
-import Slide12 from "@/components/lecture01/slide12.vue";
-import Slide13 from "@/components/lecture01/slide13.vue";
-import Slide14 from "@/components/lecture01/slide14.vue";*/
+import HorizontalScrolling from "@/components/lecture01/s_horizontal_scrolling.vue";
+import Infinite from "@/components/lecture01/s_Infinite.vue";
+import Parallax from "@/components/lecture01/s_parallax.vue";
+import ScrollingDistance from "@/components/lecture01/s_scrolling_distance.vue";
+import ScrollingSteps from "@/components/lecture01/s_scrolling_steps.vue";
+import ScrollingStoryData from "@/components/lecture01/s_scrolling_storyData.vue";
+import ScrollingTimeline from "@/components/lecture01/s_scrolling_timeline.vue";
+import TransitionsVisualisations from "@/components/lecture01/s_transitions_visualisations.vue";
+import ScrollytellingLearnmore from "@/components/lecture01/s_scrollytelling_learnmore.vue";
 
 export default {
   name: "Lecture01",
@@ -42,12 +58,16 @@ export default {
     Slide06,
     Slide07,
     Slide08,
-    /* Slide09,
-    Slide10,
-    Slide11,
-    Slide12,
-    Slide13,
-    Slide14,*/
+    Slide09,
+    ScrollytellingLearnmore,
+    HorizontalScrolling,
+    Infinite,
+    Parallax,
+    ScrollingDistance,
+    ScrollingSteps,
+    ScrollingStoryData,
+    ScrollingTimeline,
+    TransitionsVisualisations
   },
   data() {
     return {

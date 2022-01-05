@@ -17,7 +17,7 @@
             <li><a target="_blank" href="https://www.lemonade.com/giveback-2021">https://www.lemonade.com/giveback-2021</a></li>
             <li><a target="_blank" href="http://www.species-in-pieces.com/">http://www.species-in-pieces.com/</a></li>
             <li><a target="_blank" href="https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html">https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html</a></li>
-            <li><a target="_blank" href="https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/">https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/"</a></li>
+            <li><a target="_blank" href="https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/">https://www.washingtonpost.com/graphics/2020/national/live-stream-george-floyd-protests/</a></li>
             <li><a target="_blank" href="http://everylastdrop.co.uk/">http://everylastdrop.co.uk/</a></li>
             <li><a target="_blank" href="https://www.evanshalshaw.com/more/bondcars">https://www.evanshalshaw.com/more/bondcars</a></li>
             <li><a target="_blank" href="http://rice.jennytypes.com/">http://rice.jennytypes.com/</a></li>
