@@ -11,7 +11,7 @@
         </li>
         <li>
           <router-link to="/lectures/lecture01"
-            >Lecture 1 - Advanced CSS, let's begin!</router-link
+            >Lecture 1 - CSS resources and scrollytelling</router-link
           >
         </li>
         <li>
