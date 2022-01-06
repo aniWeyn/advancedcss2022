@@ -1,11 +1,9 @@
 <template>
   <nav id="nav" class="main-nav nav">
     <router-link to="/" class="main-nav__link">Course</router-link>
-    <router-link to="/laboratories" class="main-nav__link"
-      >Laboratories</router-link
-    >
 
     <router-link to="/about" class="main-nav__link">Assignments</router-link>
+    <router-link to="/about" class="main-nav__link">Sources</router-link>
   </nav>
 </template>
 
