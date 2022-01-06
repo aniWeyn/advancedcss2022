@@ -38,12 +38,6 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/RefactoringPlan.vue"),
   },
   {
-    path: "/lectures",
-    name: "Lectures",
-    component: () =>
-      import(/* webpackChunkName: "lectures" */ "../views/Lectures.vue"),
-  },
-  {
     path: "/lectures/lecture00",
     name: "Lecture00",
     component: () =>
@@ -140,10 +134,20 @@ const routes = [
       ),
   },
   {
-    path: "/laboratories/",
-    name: "Laboratories",
+    path: "/lectures/intersectionObserver",
+    name: "Lecture12",
     component: () =>
-      import(/* webpackChunkName: "lecture01" */ "../views/Laboratories.vue"),
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture12.vue"
+      ),
+  },
+  {
+    path: "/lectures/interactionsOnWeb",
+    name: "Lecture13",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture13.vue"
+      ),
   },
   {
     path: "/laboratories/laboratory01",
