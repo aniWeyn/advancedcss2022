@@ -8,7 +8,7 @@
       <span class="bold">sabina.niewiadomska@ntnu.no</span>
     </p>
     <p class="space">
-      Currently I with UX Design, UI Design, Front-end development and Project Management.
+      I work with UX Research and Design, UI Design, Front-end development and Project Management.
       <br />
       <br />
       I worked for Norwegian companies such as Inmeta, KPMG Norway, Aprila Bank, System

@@ -22,8 +22,8 @@
             >Interactions on Web</router-link
           >
         </li>
-        </ol>
-        <ol start="4">
+      </ol>
+      <ol start="4">
         <li>
           <router-link to="/lectures/intersectionObserver"
             >JavaScript - Intersection Observer</router-link
@@ -39,12 +39,10 @@
             >Lab: Introduction to Intersection Observer API
           </router-link>
         </li>
-        </ol>
-        <ol start="7">
+      </ol>
+      <ol start="7">
         <li>
-          <router-link to="/lectures/lecture08"
-            >CSS Selectors
-          </router-link>
+          <router-link to="/lectures/lecture08">CSS Selectors </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory07"
@@ -58,37 +56,33 @@
         </li>
         <li>
           <router-link to="/laboratories/laboratory07_03"
-            >Lab: CSS Selectors: pseudo classes -
-            :nth-child()
+            >Lab: CSS Selectors: pseudo classes - :nth-child()
           </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory07_04"
-            >Lab: CSS Selectors: pseudo classes -
-            :nth-last-child()
+            >Lab: CSS Selectors: pseudo classes - :nth-last-child()
           </router-link>
         </li>
-        </ol>
-        <ol start="12">
+      </ol>
+      <ol start="12">
         <li>
-          <router-link to="/lectures/lecture07"
-            >CSS Shapes
-          </router-link>
+          <router-link to="/lectures/lecture07">CSS Shapes </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory06a-tasks"
-            >Lab: CSS Shapes with
-            border-radius</router-link
-          ></li>
-               
-                          </ol>
-                                  <ol start="12">
+            >Lab: CSS Shapes with border-radius</router-link
+          >
+        </li>
+      </ol>
+      <ol start="12">
         <li>
           <router-link to="/laboratories/laboratory06a-tasks"
             >Lab: Intersection Observer + CSS Shapes and Selectors</router-link
-          ></li>
-               
-                          </ol>
+          >
+        </li>
+      </ol>
+      <!--
         <h4>January 11, 2022</h4>
         <ol start="14">
            <li>
@@ -227,9 +221,7 @@
 <h4>April 25, 2022</h4>
 <ol start="14">
   <li>L11: TBA, Final Presentation (w17)</li>
-</ol>
-
-
+</ol>-->
     </article>
     <Sidebar />
     <Sources />
