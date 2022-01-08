@@ -15,9 +15,10 @@
     <Slide12 v-if="render === 11" />
     <Slide13 v-if="render === 12" />
     <Slide14 v-if="render === 13" />
+    <Slide15 v-if="render === 14" />
     <div class="button-navigation">
       <button v-if="render != 0" v-on:click="render -= 1">Back</button>
-      <button v-if="render != 13" v-on:click="render += 1">Next</button>
+      <button v-if="render != 14" v-on:click="render += 1">Next</button>
     </div>
   </div>
 </template>
@@ -38,6 +39,7 @@ import Slide11 from "@/components/lecture00/slide11.vue";
 import Slide12 from "@/components/lecture00/slide12.vue";
 import Slide13 from "@/components/lecture00/slide13.vue";
 import Slide14 from "@/components/lecture00/slide14.vue";
+import Slide15 from "@/components/lecture00/slide15.vue";
 
 export default {
   name: "Lecture00",
@@ -57,6 +59,7 @@ export default {
     Slide12,
     Slide13,
     Slide14,
+    Slide15
   },
   data() {
     return {
