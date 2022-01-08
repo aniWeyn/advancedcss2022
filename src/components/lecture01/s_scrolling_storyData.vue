@@ -7,6 +7,7 @@
     <a target="_blank" href="http://everylastdrop.co.uk/">http://everylastdrop.co.uk/</a><br />
     <a target="_blank" href="https://lpalo.com/">https://lpalo.com/</a><br />
     <a target="_blank" href="http://letsfreecongress.org/">http://letsfreecongress.org/</a><br />
+    <a target="_blank" href="https://www.jwilber.me/permutationtest//">https://www.jwilber.me/permutationtest//</a><br />
     <a target="_blank" href="https://highline.huffingtonpost.com/articles/en/poor-millennials/">https://highline.huffingtonpost.com/articles/en/poor-millennials/</a>
   </div>
 </template>

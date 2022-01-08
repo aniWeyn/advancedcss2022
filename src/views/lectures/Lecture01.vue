@@ -20,7 +20,9 @@
     <ScrollingStoryData />
     
     <TransitionsVisualisations />
+    <Implementation />
     <ScrollytellingLearnmore />
+
     <Slide08 />
   </div>
 </template>
@@ -45,6 +47,7 @@ import ScrollingStoryData from "@/components/lecture01/s_scrolling_storyData.vue
 import ScrollingTimeline from "@/components/lecture01/s_scrolling_timeline.vue";
 import TransitionsVisualisations from "@/components/lecture01/s_transitions_visualisations.vue";
 import ScrollytellingLearnmore from "@/components/lecture01/s_scrollytelling_learnmore.vue";
+import Implementation from "@/components/lecture01/s_implementation.vue";
 
 export default {
   name: "Lecture01",
@@ -67,7 +70,8 @@ export default {
     ScrollingSteps,
     ScrollingStoryData,
     ScrollingTimeline,
-    TransitionsVisualisations
+    TransitionsVisualisations,
+    Implementation
   },
   data() {
     return {
