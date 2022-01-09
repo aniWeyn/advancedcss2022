@@ -47,7 +47,7 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/RefactoringPlan.vue"),
   },
   {
-    path: "/lectures/lecture00",
+    path: "/lecture00",
     name: "Lecture00",
     component: () =>
       import(
@@ -55,7 +55,7 @@ const routes = [
       ),
   },
   {
-    path: "/lectures/lecture01",
+    path: "/lecture01",
     name: "Lecture01",
     component: () =>
       import(
@@ -143,7 +143,7 @@ const routes = [
       ),
   },
   {
-    path: "/lectures/intersectionObserver",
+    path: "/intersectionObserver",
     name: "Lecture12",
     component: () =>
       import(
@@ -151,7 +151,7 @@ const routes = [
       ),
   },
   {
-    path: "/lectures/interactionsOnWeb",
+    path: "/interactionsOnWeb",
     name: "Lecture13",
     component: () =>
       import(
@@ -318,6 +318,14 @@ const routes = [
         /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory09grid.vue"
       ),
   },
+  {
+    path: "/labcodepen",
+    name: "Laboratory Code Pen",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/LabCodePen.vue"
+      ),
+  }
 ];
 
 const router = new VueRouter({

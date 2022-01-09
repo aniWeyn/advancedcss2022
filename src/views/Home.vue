@@ -6,31 +6,31 @@
       <h4>January 10, 2022</h4>
       <ol>
         <li>
-          <router-link to="/lectures/lecture00"
+          <router-link to="/lecture00"
             >Course organisation, schedule and assignments</router-link
           >
         </li>
       </ol>
       <ol start="2">
         <li>
-          <router-link to="/lectures/lecture01"
+          <router-link to="/lecture01"
             >CSS resources and scrollytelling</router-link
           >
         </li>
         <li>
-          <router-link to="/lectures/interactionsOnWeb"
+          <router-link to="/interactionsOnWeb"
             >Interactions on Web</router-link
           >
         </li>
       </ol>
       <ol start="4">
         <li>
-          <router-link to="/lectures/intersectionObserver"
+          <router-link to="/intersectionObserver"
             >JavaScript - Intersection Observer</router-link
           >
         </li>
         <li>
-          <router-link to="/laboratories/laboratory08io"
+          <router-link to="/labcodepen"
             >Lab: Introduction to CodePen
           </router-link>
         </li>
