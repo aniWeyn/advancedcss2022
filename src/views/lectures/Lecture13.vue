@@ -2,9 +2,10 @@
   <div class="lecture">
     <Slide00 />
     <Slide01 />
-    <!--<Slide02 />
+    <Slide02 />
     <Slide03 />
     <Slide04 />
+    <!--<Slide05 />
     <Slide06 />
     <Slide07 />
     <Slide08 />   
@@ -15,10 +16,10 @@
 <script>
 import Slide00 from "@/components/interactionsOnWeb/slide00.vue";
 import Slide01 from "@/components/interactionsOnWeb/slide01.vue";
-/*import Slide02 from "@/components/interactionsOnWeb/slide02.vue";
+import Slide02 from "@/components/interactionsOnWeb/slide02.vue";
 import Slide03 from "@/components/interactionsOnWeb/slide03.vue";
 import Slide04 from "@/components/interactionsOnWeb/slide04.vue";
-import Slide05 from "@/components/interactionsOnWeb/slide05.vue";
+/*import Slide05 from "@/components/interactionsOnWeb/slide05.vue";
 import Slide06 from "@/components/interactionsOnWeb/slide06.vue";
 import Slide07 from "@/components/interactionsOnWeb/slide07.vue";
 import Slide08 from "@/components/interactionsOnWeb/slide08.vue";
@@ -29,10 +30,10 @@ export default {
   components: {
     Slide00,
     Slide01,
-   /* Slide02,
+    Slide02,
     Slide03,
     Slide04,
-    Slide05,
+   /* Slide05,
     Slide06,
     Slide07,
     Slide08,

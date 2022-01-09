@@ -22,9 +22,10 @@
         >GitHub code</a
       >
     </p>
+    <!--
       <router-link to="/laboratories/laboratory08io"
         >Your turn - laboratories from Intersection Observer
-      </router-link>
+      </router-link>-->
   </div>
 </template>
 
