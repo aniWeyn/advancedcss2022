@@ -19,5 +19,7 @@
         />
       </div>
     </div>
+        <a href="https://www.youtube.com/watch?v=001OLmwourI">Drawing with CSS - Intermediate to Advanced CSS/Sass
+</a>
   </div>
 </template>

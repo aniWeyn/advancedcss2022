@@ -159,6 +159,14 @@ const routes = [
       ),
   },
   {
+    path: "/cssshapes",
+    name: "Lecture14",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture14.vue"
+      ),
+  },
+  {
     path: "/laboratories/laboratory01",
     name: "Laboratory01",
     component: () =>
@@ -324,6 +332,14 @@ const routes = [
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/LabCodePen.vue"
+      ),
+  },
+  {
+    path: "/labintersectionobservercssselectors",
+    name: "Intersection Observer CSS Selectors",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/LabIntersectionObserverCSSSelectors.vue"
       ),
   }
 ];

@@ -42,7 +42,7 @@
       </ol>
       <ol start="7">
         <li>
-          <router-link to="/lectures/lecture08">CSS Selectors </router-link>
+          <router-link to="/lecture08">CSS Selectors </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory07"
@@ -67,7 +67,7 @@
       </ol>
       <ol start="12">
         <li>
-          <router-link to="/lectures/lecture07">CSS Shapes </router-link>
+          <router-link to="/cssshapes">CSS Shapes </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory06a-tasks"
@@ -75,9 +75,9 @@
           >
         </li>
       </ol>
-      <ol start="12">
+      <ol start="14">
         <li>
-          <router-link to="/laboratories/laboratory06a-tasks"
+          <router-link to="/labintersectionobservercssselectors"
             >Lab: Intersection Observer + CSS Shapes and Selectors</router-link
           >
         </li>

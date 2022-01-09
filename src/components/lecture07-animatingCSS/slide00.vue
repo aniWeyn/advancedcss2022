@@ -2,7 +2,7 @@
   <div class="slide">
     <h1 class="color-change-5x">Lecture 07</h1>
     <h2 class="color-change-5x">
-      CSS Shapes, Transformations, Transitions and Animations
+      CSS Transformations, Transitions and Animations
     </h2>
   </div>
 </template>

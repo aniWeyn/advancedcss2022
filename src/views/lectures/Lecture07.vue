@@ -1,7 +1,6 @@
 <template>
   <div class="lecture">
     <Slide00 v-if="render === 0" />
-    <Slide01Shapes v-if="render === 1" />
     <Slide01Transform v-if="render === 2" />
     <Slide013dTransformations v-if="render === 3" />
     <Slide02 v-if="render === 4" />
@@ -34,7 +33,6 @@
 
 <script>
 import Slide00 from "@/components/lecture07-animatingCSS/slide00.vue";
-import Slide01Shapes from "@/components/lecture07-animatingCSS/slide01-css-shapes.vue";
 import Slide01Transform from "@/components/lecture07-animatingCSS/slide01-transformations.vue";
 import Slide013dTransformations from "@/components/lecture07-animatingCSS/slide01-transformations3d.vue";
 import Slide02 from "@/components/lecture07-animatingCSS/slide02.vue";
@@ -59,7 +57,6 @@ export default {
   name: "Lecture00",
   components: {
     Slide00,
-    Slide01Shapes,
     Slide01Transform,
     Slide013dTransformations,
     Slide02,
