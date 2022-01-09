@@ -1,53 +1,44 @@
 <template>
   <div class="lecture">
-    <Slide00 v-if="render === 0" />
-    <Slide01a v-if="render === 1" />
-    <Slide01 v-if="render === 2" />
-    <Slide02 v-if="render === 3" />
-    <Slide03 v-if="render === 4" />
-    <Slide04 v-if="render === 5" />
-    <Slide05 v-if="render === 6" />
-    <Slide06 v-if="render === 7" />
-    <Slide07 v-if="render === 8" />
-    <Slide08 v-if="render === 9" />
-    <Slide09 v-if="render === 10" />
-    <Slide09a v-if="render === 11" />
-    <Slide09b v-if="render === 12" />
-    <Slide10 v-if="render === 13" />
-    <Slide11 v-if="render === 14" />
-    <Slide12 v-if="render === 15" />
-    <Slide13 v-if="render === 16" />
-    <Slide14 v-if="render === 17" />
-    <Slide15 v-if="render === 18" />
-    <Slide16 v-if="render === 19" />
-    <Slide17 v-if="render === 20" />
-    <Slide18 v-if="render === 21" />
-    <Slide19 v-if="render === 22" />
-    <Slide20 v-if="render === 23" />
-    <Slide21 v-if="render === 24" />
-    <Slide22 v-if="render === 25" />
-    <Slide23 v-if="render === 26" />
-    <Slide24 v-if="render === 27" />
-    <Slide25 v-if="render === 28" />
-    <Slide26 v-if="render === 29" />
-    <Slide27 v-if="render === 30" />
-    <Slide28 v-if="render === 31" />
-    <Slide29 v-if="render === 32" />
-    <Slide30 v-if="render === 33" />
-    <Slide31 v-if="render === 34" />
-    <Slide32 v-if="render === 35" />
-    <Slide33 v-if="render === 36" />
-    <Slide34 v-if="render === 37" />
-    <Slide35 v-if="render === 38" />
-
-    <div class="button-navigation">
-      <div>
-        <button v-if="render != 0" v-on:click="render -= 1">Back</button>
-      </div>
-      <div>
-        <button v-if="render != 38" v-on:click="render += 1">Next</button>
-      </div>
-    </div>
+    <Slide00 />
+    <Slide01a />
+    <Slide01 />
+    <Slide02 />
+    <Slide03 />
+    <Slide04 />
+    <Slide05 />
+    <Slide06 />
+    <Slide07 />
+    <Slide08 />
+    <Slide09  />
+    <Slide09a />
+    <Slide09b />
+    <Slide10  />
+    <Slide11  />
+    <Slide12  />
+    <Slide13  />
+    <Slide14  />
+    <Slide15 />
+    <Slide16 />
+    <Slide17 />
+    <Slide18 />
+    <Slide19 />
+    <Slide20 />
+    <Slide21 />
+    <Slide22 />
+    <Slide23 />
+    <Slide24 />
+    <Slide25 />
+    <Slide26 />
+    <Slide27 />
+    <Slide28 />
+    <Slide29 />
+    <Slide30 />
+    <Slide31 />
+    <Slide32  />
+    <Slide33  />
+    <Slide34 />
+    <Slide35  />
   </div>
 </template>
 
@@ -150,6 +141,10 @@ export default {
 </script>
 
 <style>
+.slide{
+  min-height: 100vh;
+}
+
 .space {
   padding-bottom: 5px;
 }

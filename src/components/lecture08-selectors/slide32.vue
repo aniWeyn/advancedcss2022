@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Pseudo element</h3>
     <p>
       A CSS pseudo-element is a keyword added to a selector that lets you style

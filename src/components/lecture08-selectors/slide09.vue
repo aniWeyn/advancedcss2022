@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Column combinator (not working yet!)</h3>
     <p>
       The || combinator selects nodes which belong to a column.<br />

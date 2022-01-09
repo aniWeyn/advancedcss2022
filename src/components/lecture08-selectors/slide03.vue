@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Grouping selectors</h3>
     <h4>Selector list</h4>
     <img

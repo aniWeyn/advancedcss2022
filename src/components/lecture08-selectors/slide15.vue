@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Test it</h3>
     <p>
       This paragraph contains a link:

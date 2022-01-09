@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Linguistic pseudo classes</h3>
     <p>
       These pseudo-classes reflect the document language, and enable the

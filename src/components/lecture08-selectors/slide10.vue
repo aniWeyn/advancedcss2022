@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Pseudo</h3>
     <ul>
       <li>Pseudo classes</li>

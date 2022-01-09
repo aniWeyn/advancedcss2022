@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Pseudo elements</h3>
     <p>The :: pseudo represent entities that are not included in HTML.</p>
   </div>

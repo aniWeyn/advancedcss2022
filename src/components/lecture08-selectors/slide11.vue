@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Pseudo classes</h3>
     <p>
       The : pseudo allow the selection of elements based on state information

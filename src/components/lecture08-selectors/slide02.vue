@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Basic selectors</h3>
     <p>CSS selectors define the elements to which a set of CSS rules apply.</p>
     <ul>
