@@ -36,7 +36,7 @@ import Slide01 from "@/components/lecture01/slide01.vue";
 import Slide05 from "@/components/lecture01/slide05.vue";
 import Slide06 from "@/components/lecture01/slide06.vue";
 import Slide07 from "@/components/lecture01/slide07.vue";
-import Slide08 from "@/components/lecture01/slide08.vue";
+//import Slide08 from "@/components/lecture01/slide08.vue";
 import Slide09 from "@/components/lecture01/slide09.vue";
 import HorizontalScrolling from "@/components/lecture01/s_horizontal_scrolling.vue";
 import Infinite from "@/components/lecture01/s_Infinite.vue";
@@ -60,7 +60,7 @@ export default {
     Slide05,
     Slide06,
     Slide07,
-    Slide08,
+    //Slide08,
     Slide09,
     ScrollytellingLearnmore,
     HorizontalScrolling,
