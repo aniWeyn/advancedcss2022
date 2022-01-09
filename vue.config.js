@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/advanced_css/",
+  publicPath: "/advanced_css2022/",
 };
