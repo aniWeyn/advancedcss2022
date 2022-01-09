@@ -23,7 +23,7 @@
     <Implementation />
     <ScrollytellingLearnmore />
 
-    <Slide08 />
+    <!--<Slide08 />-->
   </div>
 </template>
 
