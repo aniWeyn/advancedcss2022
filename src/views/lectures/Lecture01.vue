@@ -15,6 +15,7 @@
     <HorizontalScrolling />
     <ScrollingDistance />
     <ScrollingTimeline />
+    <ScrollingPerspective />
     
     <ScrollingSteps />
     <ScrollingStoryData />
@@ -48,6 +49,7 @@ import ScrollingTimeline from "@/components/lecture01/s_scrolling_timeline.vue";
 import TransitionsVisualisations from "@/components/lecture01/s_transitions_visualisations.vue";
 import ScrollytellingLearnmore from "@/components/lecture01/s_scrollytelling_learnmore.vue";
 import Implementation from "@/components/lecture01/s_implementation.vue";
+import ScrollingPerspective from "@/components/lecture01/s_scrolling_perspective.vue";
 
 export default {
   name: "Lecture01",
@@ -71,7 +73,8 @@ export default {
     ScrollingStoryData,
     ScrollingTimeline,
     TransitionsVisualisations,
-    Implementation
+    Implementation,
+    ScrollingPerspective
   },
   data() {
     return {
