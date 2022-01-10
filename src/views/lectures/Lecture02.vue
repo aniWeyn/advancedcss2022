@@ -1,36 +1,28 @@
 <template>
   <div class="lecture">
-    <Slide00 v-if="render === 0" />
-    <Slide00a v-if="render === 1" />
-    <Slide01 v-if="render === 2" />
-    <Slide02 v-if="render === 3" />
-    <Slide03 v-if="render === 4" />
-    <Slide04 v-if="render === 5" />
-    <Slide05 v-if="render === 6" />
-    <Slide06 v-if="render === 7" />
-    <Slide07 v-if="render === 8" />
-    <Slide08 v-if="render === 9" />
-    <Slide09 v-if="render === 10" />
-    <Slide10 v-if="render === 11" />
-    <Slide11 v-if="render === 12" />
-    <Slide12 v-if="render === 13" />
-    <Slide13 v-if="render === 14" />
-    <Slide14 v-if="render === 15" />
-    <Slide15 v-if="render === 16" />
-    <Slide16 v-if="render === 17" />
-    <Slide17 v-if="render === 18" />
-    <Slide18 v-if="render === 19" />
-    <Slide19 v-if="render === 20" />
-    <Slide20 v-if="render === 21" />
-    <Slide21 v-if="render === 22" />
-    <div class="button-navigation">
-      <div>
-        <button v-if="render != 0" v-on:click="render -= 1">Back</button>
-      </div>
-      <div>
-        <button v-if="render != 22" v-on:click="render += 1">Next</button>
-      </div>
-    </div>
+    <Slide00  />
+    <Slide00a />
+    <Slide01  />
+    <Slide02  />
+    <Slide03  />
+    <Slide04  />
+    <Slide05  />
+    <Slide06  />
+    <Slide07  />
+    <Slide08  />
+    <Slide09  />
+    <Slide10  />
+    <Slide11  />
+    <Slide12  />
+    <Slide13  />
+    <Slide14  />
+    <Slide15  />
+    <Slide16  />
+    <Slide17  />
+    <Slide18  />
+    <Slide19  />
+    <Slide20  />
+    <Slide21  />
   </div>
 </template>
 
@@ -101,6 +93,10 @@ export default {
 </script>
 
 <style>
+.slide{
+  min-height: 100vh;
+}
+
 .bold {
   font-weight: 700;
 }

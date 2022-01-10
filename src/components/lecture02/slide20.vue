@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Methodology for design systems</h3>
     <h4>Atomic Design</h4>
     <p class="italic">

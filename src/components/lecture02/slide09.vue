@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>CSS Best Practices</h3>
     <h4>CSS</h4>
     <p class="italic">

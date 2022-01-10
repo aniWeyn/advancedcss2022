@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Progressive Enhancement (around 2003)</h3>
     <p class="italic">
       "Progressive enhancement is a design philosophy <br />

@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Graceful Degradation</h3>
     <p class="italic">
       "Graceful degradation is a design philosophy <br />

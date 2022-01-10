@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Mixins</h3>
     <div>
       <div><i>more advanced variables </i></div>

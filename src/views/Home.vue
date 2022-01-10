@@ -23,6 +23,7 @@
           >
         </li>
       </ol>
+       <h4>January 11, 2022</h4>
       <ol start="4">
         <li>
           <router-link to="/intersectionObserver"
@@ -41,6 +42,33 @@
         </li>
       </ol>
       <ol start="7">
+  <li>
+          <router-link to="/lectures/lecture02"
+            >Architecting CSS</router-link
+          >
+        </li>
+               <li>
+          <router-link to="/lectures/lecture04"
+            >Preprocessors... and SASS
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/lectures/lecture05"
+            >CSS Variables vs. SASS variables and SVG
+          </router-link>
+        </li>
+                 <li>
+          <a href="https://github.com/aniWeyn/advanced_css_examples"
+            >GitHub repository: SASS variables, CSS variables</a
+          >
+        </li>
+            <li>
+          <router-link to="/laboratories/laboratory03"
+            >Lab</router-link
+          >
+        </li>
+      </ol>
+      <ol start="11">
         <li>
           <router-link to="/lecture08">CSS Selectors </router-link>
         </li>
@@ -83,7 +111,6 @@
         </li>
       </ol>
       <!--
-        <h4>January 11, 2022</h4>
         <ol start="14">
            <li>
           <router-link to="/lectures/lecture07"
@@ -170,32 +197,7 @@
         </li>
 </ol>
 <h4>March 14, 2022</h4>
-<ol start="14">
-  <li>
-          <router-link to="/lectures/lecture02"
-            >Lecture 2 - Architecting CSS</router-link
-          >
-        </li>
-                <li>
-          <router-link to="/lectures/lecture04"
-            >Lecture 4 - Preprocessors... and SASS
-          </router-link>
-        </li>
-        <li>
-          <router-link to="/lectures/lecture05"
-            >Lecture 5 - CSS Variables vs. SASS variables and SVG
-          </router-link>
-        </li>
-                <li>
-          <a href="https://github.com/aniWeyn/advanced_css_examples"
-            >GitHub repository: SASS variables, CSS variables</a
-          >
-        </li>
-                <li>
-          <router-link to="/laboratories/laboratory03"
-            >Laboratory 03 - 15.02.2021</router-link
-          >
-        </li>
+
 </ol>
 <h4>March 15, 2022</h4>
 <ol start="14">        <li>

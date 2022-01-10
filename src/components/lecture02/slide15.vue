@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>OOCSS - Object-Oriented CSS</h3>
     <div class="two-columns">
       <div>

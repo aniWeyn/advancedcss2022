@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>SASS</h3>
     <ul>
       <li><strong>variables</strong>: reusable values</li>

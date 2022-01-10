@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Methodologies</h3>
     <table>
       <thead>

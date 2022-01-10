@@ -1,5 +1,6 @@
 <template>
-  <div class="slide">
+  <div  class="slide">
+    <hr />
     <h2>Separation of Concerns</h2>
     <p class="italic">
       "It is very helpful for us to focus on one aspect of a problem at a time.

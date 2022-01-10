@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>BEM - block _ _ element - - modifier</h3>
     <p>block-name _ _ element-name - - modifier</p>
     <div class="three-columns--equal">

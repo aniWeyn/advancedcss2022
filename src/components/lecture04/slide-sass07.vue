@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Extends</h3>
     <div>
       <p>

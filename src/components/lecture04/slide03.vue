@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <img
       class="img"
       src="../../assets/images/lecture04-logo_less.png"

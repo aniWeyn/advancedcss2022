@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Separation of Concerns in examples</h3>
     <h4>HTML, CSS and JavaScript</h4>
     <p>

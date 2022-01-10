@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Separation of Concerns in examples</h3>
     <h4>CSS</h4>
     <p>What separation of concerns can be found in CSS?</p>

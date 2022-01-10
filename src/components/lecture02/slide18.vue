@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>SMACSS - Scalable and Modular Architecture for CSS</h3>
     <p class="italic">
       Categorization system of rulesets: <br />

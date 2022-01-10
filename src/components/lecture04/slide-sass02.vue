@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>SASS Syntax</h3>
     <div>
       <div class="two-columns">

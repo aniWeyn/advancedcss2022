@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>What can we do about that?</h3>
     <p class="italic">
       "<a

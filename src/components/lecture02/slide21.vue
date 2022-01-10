@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Requirements to assignmnets</h3>
     <div class="two-columns">
       <div>

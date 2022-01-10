@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Nesting</h3>
     <div class="two-columns">
       <div class="example example--w100">

@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>What are preprocessors?</h3>
     <p>
       <i>

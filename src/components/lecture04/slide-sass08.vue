@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Control directivess (Flow Control Rules)</h3>
     <div>
       <p>

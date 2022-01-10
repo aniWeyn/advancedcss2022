@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Variables</h3>
     <div class="two-columns">
       <img

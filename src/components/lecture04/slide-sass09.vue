@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Partials and imports</h3>
     <div class="two-columns">
       <div>
@@ -19,7 +20,5 @@
         />
       </div>
     </div>
-        <a href="https://www.youtube.com/watch?v=001OLmwourI">Drawing with CSS - Intermediate to Advanced CSS/Sass
-</a>
   </div>
 </template>

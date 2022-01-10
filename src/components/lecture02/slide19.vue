@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>ITCSS - Inverted Triangle CSS</h3>
     <p class="italic">
       "(..) helps you to organize your project CSS files<br />
