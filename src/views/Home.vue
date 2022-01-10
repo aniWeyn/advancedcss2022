@@ -18,12 +18,10 @@
           >
         </li>
         <li>
-          <router-link to="/interactionsOnWeb"
-            >Interactions on Web</router-link
-          >
+          <router-link to="/interactionsOnWeb">Interactions on Web</router-link>
         </li>
       </ol>
-       <h4>January 11, 2022</h4>
+      <h4>January 11, 2022</h4>
       <ol start="4">
         <li>
           <router-link to="/intersectionObserver"
@@ -42,33 +40,19 @@
         </li>
       </ol>
       <ol start="7">
-  <li>
-          <router-link to="/lectures/lecture02"
-            >Architecting CSS</router-link
-          >
+        <li>
+          <router-link to="/lectures/lecture02">Architecting CSS</router-link>
         </li>
-               <li>
+        <li>
           <router-link to="/lectures/lecture04"
-            >Preprocessors... and SASS
+            >Preprocessors with focus on SASS
           </router-link>
         </li>
         <li>
-          <router-link to="/lectures/lecture05"
-            >CSS Variables vs. SASS variables and SVG
-          </router-link>
-        </li>
-                 <li>
-          <a href="https://github.com/aniWeyn/advanced_css_examples"
-            >GitHub repository: SASS variables, CSS variables</a
-          >
-        </li>
-            <li>
-          <router-link to="/laboratories/laboratory03"
-            >Lab</router-link
-          >
+          <router-link to="/lectures/lecture05">CSS Variables </router-link>
         </li>
       </ol>
-      <ol start="11">
+      <ol start="10">
         <li>
           <router-link to="/lecture08">CSS Selectors </router-link>
         </li>
@@ -93,7 +77,7 @@
           </router-link>
         </li>
       </ol>
-      <ol start="12">
+      <ol start="11">
         <li>
           <router-link to="/cssshapes">CSS Shapes </router-link>
         </li>
@@ -103,7 +87,7 @@
           >
         </li>
       </ol>
-      <ol start="14">
+      <ol start="13">
         <li>
           <router-link to="/labintersectionobservercssselectors"
             >Lab: Intersection Observer + CSS Shapes and Selectors</router-link
@@ -194,6 +178,9 @@
           <router-link to="/laboratories/laboratory01"
             >Laboratory 01 - 25.01.2021</router-link
           >
+        </li>
+                <li>
+          <router-link to="/laboratories/laboratory03">SASS in VS Code and project archtecture</router-link>
         </li>
 </ol>
 <h4>March 14, 2022</h4>

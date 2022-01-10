@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>CSS variables (Custom properties / cascading variables)</h3>
     <div>
       <ul>

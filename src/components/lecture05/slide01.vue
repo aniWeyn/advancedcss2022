@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>CSS variables (Custom properties / cascading variables)</h3>
     <p>
       A common best practice is to define custom properties on the :root

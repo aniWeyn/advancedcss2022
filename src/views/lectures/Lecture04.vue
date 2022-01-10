@@ -16,6 +16,7 @@
     <Slide0sass08 />
     <Slide0sass09 />
     <Example />
+    <ExamplesGithub />
   </div>
 </template>
 
@@ -36,6 +37,8 @@ import Slide0sass07 from "@/components/lecture04/slide-sass07.vue";
 import Slide0sass08 from "@/components/lecture04/slide-sass08.vue";
 import Slide0sass09 from "@/components/lecture04/slide-sass09.vue";
 import Example from "@/components/lecture04/s_example.vue";
+import ExamplesGithub from "@/components/lecture04/s_examples_github.vue";
+
 
 
 export default {
@@ -56,7 +59,8 @@ export default {
     Slide0sass07,
     Slide0sass08,
     Slide0sass09,
-    Example
+    Example,
+    ExamplesGithub
   },
   data() {
     return {

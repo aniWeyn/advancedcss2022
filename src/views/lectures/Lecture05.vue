@@ -1,18 +1,8 @@
 <template>
   <div class="lecture">
-    <Slide00 v-if="render === 0" />
-    <Slide01 v-if="render === 1" />
-    <Slide02 v-if="render === 2" />
-    <SlideSVG00 v-if="render === 3" />
-    <SlideSVG01 v-if="render === 4" />
-    <div class="button-navigation">
-      <div>
-        <button v-if="render != 0" v-on:click="render -= 1">Back</button>
-      </div>
-      <div>
-        <button v-if="render != 4" v-on:click="render += 1">Next</button>
-      </div>
-    </div>
+    <Slide00 />
+    <Slide01 />
+    <Slide02 />
   </div>
 </template>
 
@@ -20,17 +10,13 @@
 import Slide00 from "@/components/lecture05/slide00.vue";
 import Slide01 from "@/components/lecture05/slide01.vue";
 import Slide02 from "@/components/lecture05/slide02.vue";
-import SlideSVG00 from "@/components/lecture05/slideSVG00.vue";
-import SlideSVG01 from "@/components/lecture05/slideSVG01.vue";
 
 export default {
   name: "Lecture00",
   components: {
     Slide00,
     Slide01,
-    Slide02,
-    SlideSVG00,
-    SlideSVG01,
+    Slide02
   },
   data() {
     return {
@@ -47,6 +33,10 @@ export default {
 </script>
 
 <style>
+.slide{
+  min-height: 100vh;
+}
+
 .space {
   padding-bottom: 5px;
 }

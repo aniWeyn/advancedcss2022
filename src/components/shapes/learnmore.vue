@@ -25,5 +25,6 @@
         Mozilla Hacks tutorial:
     <a target="_blank" href="https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/">Single Div Drawings with CSS</a>
     </p>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/001OLmwourI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </template>
