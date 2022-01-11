@@ -132,6 +132,12 @@
       <h4>January 13, 2022</h4>
       <ol start="20">
         <li><strong>Guest lecture - Felipe Hefler</strong></li>
+        <li>TBA</li>
+        </ol>
+        <h4>January 14, 2022</h4>
+              <ol start="22">
+        <li>Requirements for Assignent 1</li>
+        <li>TBA</li>
         </ol>
 
 <!--
