@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>The non-step keyword values (easing functions)</h3>
     <div class="container">
       <strong>ease</strong>: cubic-bezier(0.25, 0.1, 0.25, 1.0),<br />

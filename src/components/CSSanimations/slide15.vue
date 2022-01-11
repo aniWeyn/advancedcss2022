@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>animation as shorthand CSS property</h3>
     <p>
       animation: duration | easing-function | delay | iteration-count |

@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>animation-name</h3>
     <p>
       The animation-name CSS property specifies the names of one or more

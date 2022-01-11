@@ -78,7 +78,6 @@
         </li>
       </ol>
       <h4>January 12, 2022</h4>
-      <!--
       <ol start="11">
         <li>
           <router-link to="/cssshapes">CSS Shapes </router-link>
@@ -95,12 +94,11 @@
             >Lab: Intersection Observer + CSS Shapes and Selectors</router-link
           >
         </li>
-      </ol>-->
-      <!--
+      </ol>
         <ol start="14">
            <li>
-          <router-link to="/lectures/lecture07"
-            >CSS Transformations, Transitions and Animations
+          <router-link to="/transformations"
+            >Transformations
           </router-link>
         </li>
                 <li>
@@ -108,13 +106,32 @@
             >Lab: CSS Transform</router-link
           >
         </li>
+                   <li>
+          <router-link to="/transitions"
+            >Transitions
+          </router-link>
+        </li>
         <li>
           <router-link to="/laboratories/laboratory06c"
             >Lab: CSS Transitions</router-link
           >
         </li>
-              </ol>
-              <h4>January 12, 2022</h4>
+        <li>
+          <router-link to="/CSSanimations"
+            >Animations
+          </router-link>
+        </li>
+         </ol>
+               <ol start="19">
+        <li>
+          <router-link to="/labintersectionobservercssselectors"
+            >Lab: Intersection Observer + Transformations, Transitions and Animations</router-link
+          >
+        </li>
+      </ol>
+<!--
+        January 13, 2022
+             
               <ol start="14">
                       <li>
           <router-link to="/lectures/lecture06"

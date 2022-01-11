@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>transition-timing-function</h3>
     <p>
       The transition-timing-function CSS property sets how intermediate values

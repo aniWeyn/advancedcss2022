@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>animation-duration</h3>
     <p>
       The animation-duration CSS property sets the length of time that an

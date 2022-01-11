@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>animation-direction</h3>
     <p>
       The animation-direction CSS property sets whether an animation should play

@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>animation-play-state</h3>
     <p>
       The animation-play-state CSS property sets whether an animation is running

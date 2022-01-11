@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>animation-fill-mode</h3>
     <p>
       The animation-fill-mode CSS property sets how a CSS animation applies

@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>The step timing functions</h3>
     <p>
       Displays the transition along n stops along the transition, displaying

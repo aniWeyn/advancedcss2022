@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>Configuring the animation</h3>
     <h4>The sub-properties of the animation property are:</h4>
     <ul>

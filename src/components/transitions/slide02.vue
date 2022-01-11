@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>CSS Transitions</h3>
     <p>
       Transitions enable you to define the transition between two states of an

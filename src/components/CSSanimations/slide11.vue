@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>animation-iteration-count</h3>
     <p>
       The animation-iteration-count CSS property sets the number of times an

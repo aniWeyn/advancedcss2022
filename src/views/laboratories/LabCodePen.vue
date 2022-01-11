@@ -24,8 +24,12 @@
 <h4>Exercises</h4>
 <h5>Create CodePen account</h5>
 <p>Create CodePen account and explore its' features and test the code editor.</p>
-
-
+<h4>Set up for SASS</h4>
+        <img
+          class="img"
+          src="../../assets/images/codepen_setup_for_scss.png"
+          alt="CodePen"
+        />
   </div>
 </template>
 

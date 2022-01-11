@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>CSS Animations</h3>
     <p>
       CSS Animations is a module of CSS that lets you animate the values of CSS

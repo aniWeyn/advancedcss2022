@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>@keyframes</h3>
     <p>
       The @keyframes CSS at-rule controls the intermediate steps in a CSS

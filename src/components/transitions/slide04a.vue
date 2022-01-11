@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>The non-step keyword values (easing functions)</h3>
     <p>Adjust the transition-timing-function in the browser:</p>
     <div>
