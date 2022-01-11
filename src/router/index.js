@@ -287,6 +287,14 @@ const routes = [
       ),
   },
   {
+    path: "/laboratories/laboratory07_03ab",
+    name: "Laboratory07",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory07_03ab.vue"
+      ),
+  },
+  {
     path: "/laboratories/laboratory07_04",
     name: "Laboratory07",
     component: () =>

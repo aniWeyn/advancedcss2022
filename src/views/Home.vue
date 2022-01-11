@@ -77,6 +77,8 @@
           </router-link>
         </li>
       </ol>
+      <h4>January 12, 2022</h4>
+      <!--
       <ol start="11">
         <li>
           <router-link to="/cssshapes">CSS Shapes </router-link>
@@ -93,7 +95,7 @@
             >Lab: Intersection Observer + CSS Shapes and Selectors</router-link
           >
         </li>
-      </ol>
+      </ol>-->
       <!--
         <ol start="14">
            <li>
