@@ -129,6 +129,11 @@
           >
         </li>
       </ol>
+      <h4>January 13, 2022</h4>
+      <ol start="20">
+        <li><strong>Guest lecture - Felipe Hefler</strong></li>
+        </ol>
+
 <!--
         January 13, 2022
              
