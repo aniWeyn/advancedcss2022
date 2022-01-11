@@ -54,7 +54,7 @@
       </ol>
       <ol start="10">
         <li>
-          <router-link to="/lecture08">CSS Selectors </router-link>
+          <router-link to="/lectures/lecture08">CSS Selectors </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory07"
