@@ -365,6 +365,14 @@ const routes = [
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/LabIntersectionObserverCSSSelectors.vue"
       ),
+  },
+  {
+    path: "/labsharing1",
+    name: "LabSharing1",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/LabSharing1.vue"
+      ),
   }
 ];
 
