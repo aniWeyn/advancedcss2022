@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>Intriduction to CodePen</h3>
+    <h3>Work in progress! :)</h3>
     <h4>Group 5</h4>
     <iframe
       height="600"
