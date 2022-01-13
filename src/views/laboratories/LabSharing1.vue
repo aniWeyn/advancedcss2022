@@ -165,11 +165,24 @@
       <a href="https://codepen.io">CodePen</a>.
     </iframe>
     <h4>Group 11</h4>
-    <iframe height="300" style="width: 100%;" scrolling="no" title="transitions_shapes&amp;colors" src="https://codepen.io/AniWeyn/embed/MWEZgaM?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/AniWeyn/pen/MWEZgaM">
-  transitions_shapes&amp;colors</a> by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+    <iframe
+      height="600"
+      style="width: 100%;"
+      scrolling="no"
+      title="transitions_shapes&amp;colors"
+      src="https://codepen.io/AniWeyn/embed/MWEZgaM?default-tab=css%2Cresult&editable=true"
+      frameborder="no"
+      loading="lazy"
+      allowtransparency="true"
+      allowfullscreen="true"
+    >
+      See the Pen
+      <a href="https://codepen.io/AniWeyn/pen/MWEZgaM">
+        transitions_shapes&amp;colors</a
+      >
+      by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>) on
+      <a href="https://codepen.io">CodePen</a>.
+    </iframe>
   </div>
 </template>
 

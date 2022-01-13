@@ -132,6 +132,10 @@
             >Lab: Intersection Observer + Transformations, Transitions and Animations</router-link
           >
         </li>
+                <li>
+          <router-link to="/labsharing1">Your work!</router-link
+          >
+        </li>
         </ol>
         <h4>January 14, 2022</h4>
               <ol start="22">
