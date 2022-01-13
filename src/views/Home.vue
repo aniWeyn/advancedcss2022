@@ -106,6 +106,10 @@
             >Lab: CSS Transform</router-link
           >
         </li>
+        <li>
+          <router-link to="/labsharing1">Your work!</router-link
+          >
+        </li>
       </ol>
       <h4>January 13, 2022</h4>
       <ol start="20">
@@ -130,10 +134,6 @@
         <li>
           <router-link to="/labintersectionobservercssselectors"
             >Lab: Intersection Observer + Transformations, Transitions and Animations</router-link
-          >
-        </li>
-                <li>
-          <router-link to="/labsharing1">Your work!</router-link
           >
         </li>
         </ol>
