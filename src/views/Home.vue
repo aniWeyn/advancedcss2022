@@ -110,7 +110,6 @@
       <h4>January 13, 2022</h4>
       <ol start="20">
         <li><strong>Guest lecture - Felipe Hefler</strong></li>
-        <!-- 
             <li>
           <router-link to="/transitions"
             >Transitions
@@ -133,7 +132,6 @@
             >Lab: Intersection Observer + Transformations, Transitions and Animations</router-link
           >
         </li>
-        -->
         </ol>
         <h4>January 14, 2022</h4>
               <ol start="22">
