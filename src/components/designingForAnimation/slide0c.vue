@@ -1,6 +1,6 @@
 <template>
-  <div class="slide">
-    
+  <div  class="slide">
+    <hr />
       <div>
           <p class="space">
           For each of this transition you should note multiple properties:

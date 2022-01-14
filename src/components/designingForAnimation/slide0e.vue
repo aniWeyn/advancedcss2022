@@ -1,5 +1,6 @@
 <template>
-  <div class="slide">
+  <div  class="slide">
+    <hr />
     <div>
       <p class="space">Example:</p>
     </div>

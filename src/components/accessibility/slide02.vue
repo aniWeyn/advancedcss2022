@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h4>Microsoft Inclusive Design</h4>
 
     <p>

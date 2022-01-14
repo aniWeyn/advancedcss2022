@@ -93,10 +93,6 @@ export default {
 </script>
 
 <style>
-.slide{
-  min-height: 100vh;
-}
-
 .bold {
   font-weight: 700;
 }

@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <div>
       <span class="oblique">Accessibillity</span>
     </div>

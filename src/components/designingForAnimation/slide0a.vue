@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <div class="two-columns">
       <div>
         <h4>Storyboard</h4>

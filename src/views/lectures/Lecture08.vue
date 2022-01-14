@@ -141,10 +141,6 @@ export default {
 </script>
 
 <style>
-.slide{
-  min-height: 100vh;
-}
-
 .space {
   padding-bottom: 5px;
 }

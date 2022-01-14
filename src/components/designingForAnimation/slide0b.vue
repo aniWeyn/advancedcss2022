@@ -1,25 +1,21 @@
 <template>
   <div class="slide">
-    
+    <hr />
       <div>
           <p class="space">
-          We what you make meaningful animations, so you should also convey:
+          Each panel will describe a portion of the action.
+          You can show:
           <ul>
                
                <li>
-                <strong>What</strong> is the meaning of each action.
-               </li>
-                <li>
-                <strong>How</strong> is it helping convey the meaning of the verse.
+                <strong>The framing</strong>: what is visible and what is hidden and from which prospective (2D or 3D) we are looking at it.
                </li>
                <li>
-               <strong>What</strong> feeling or impression you wish to create in the audience.
+               <strong>Camera Movements</strong>: is the point of view changing? Getting closer, panning left/right.
                </li>
-                <li>
-               <strong>How</strong> does it effect the user experience (slows down the reader, focuses attention on an element).
+               <li>
+               <strong>Elements Movements</strong>: Are the elements moving? Rotation, translation, morphing, change of color.
                </li>
-        
-         
           </ul>
         </p>
         </div>

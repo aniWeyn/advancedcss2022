@@ -95,29 +95,24 @@
           >
         </li>
       </ol>
-        <ol start="14">
-           <li>
-          <router-link to="/transformations"
-            >Transformations
-          </router-link>
+      <ol start="14">
+        <li>
+          <router-link to="/transformations">Transformations </router-link>
         </li>
-                <li>
+        <li>
           <router-link to="/laboratories/laboratory06b"
             >Lab: CSS Transform</router-link
           >
         </li>
         <li>
-          <router-link to="/labsharing1">Your work!</router-link
-          >
+          <router-link to="/labsharing1">Your work!</router-link>
         </li>
       </ol>
       <h4>January 13, 2022</h4>
       <ol start="20">
         <li><strong>Guest lecture - Felipe Hefler</strong></li>
-            <li>
-          <router-link to="/transitions"
-            >Transitions
-          </router-link>
+        <li>
+          <router-link to="/transitions">Transitions </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory06c"
@@ -125,26 +120,58 @@
           >
         </li>
         <li>
-          <router-link to="/CSSanimations"
-            >Animations
-          </router-link>
+          <router-link to="/CSSanimations">Animations </router-link>
         </li>
-         </ol>
-               <ol start="19">
+      </ol>
+      <ol start="19">
         <li>
           <router-link to="/labintersectionobservercssselectors"
-            >Lab: Intersection Observer + Transformations, Transitions and Animations</router-link
+            >Lab: Intersection Observer + Transformations, Transitions and
+            Animations</router-link
           >
         </li>
-        </ol>
-        <h4>January 14, 2022</h4>
-              <ol start="22">
+      </ol>
+      <h4>January 14, 2022</h4>
+      <ol start="22">
         <li>Requirements for Assignent 1</li>
-        <li>TBA</li>
-        </ol>
+      </ol>
+      <h4>January 14, 2022</h4>
+      <ol start="14"></ol>
+      <h4>February 14, 2022 (8:15 - 12:00, 12:30 - 14:30)</h4>
+      <ol start="14">
+        <li>
+          <router-link to="designingForAnimation"
+            >Designing for animation
+          </router-link>
+        </li>
+        <li>
+          <router-link to="accessibility"
+            >Accessibility in CSS (A11y)
+          </router-link>
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory02"
+            >Laboratory 02 - 01.02.2021</router-link
+          >
+        </li>
+      </ol>
+      <h4>February 15, 2022 (8:15 - 10:00, 12:15 - 16:00)</h4>
+      <ol start="14">
+        L7: Working with Visual Studio Code and GitHub and Project Management
+        (w7)
+        <li>
+          <router-link to="/laboratories/laboratory01"
+            >Laboratory 01 - 25.01.2021</router-link
+          >
+        </li>
+        <li>
+          <router-link to="/laboratories/laboratory03"
+            >SASS in VS Code and project archtecture</router-link
+          >
+        </li>
+      </ol>
 
-<!--
-        January 13, 2022
+      <!--
              
               <ol start="14">
                       <li>
@@ -189,33 +216,7 @@
           </router-link>
         </li>
               </ol>
-              <h4>January 14, 2022</h4>
-              <ol start="14"></ol>
-<h4>February 14, 2022</h4>
-<ol start="14">
-          <li>
-          <router-link to="/lectures/lecture03"
-            >Lecture 3 - Accessibility for designing / Designing for animation
-          </router-link>
-        </li>
-                <li>
-          <router-link to="/laboratories/laboratory02"
-            >Laboratory 02 - 01.02.2021</router-link
-          >
-        </li>
-</ol>
-<h4>February 15, 2022</h4>
-<ol start="14">
-  L7: Working with Visual Studio Code and GitHub and Project Management (w7)
-        <li>
-          <router-link to="/laboratories/laboratory01"
-            >Laboratory 01 - 25.01.2021</router-link
-          >
-        </li>
-                <li>
-          <router-link to="/laboratories/laboratory03">SASS in VS Code and project archtecture</router-link>
-        </li>
-</ol>
+
 <h4>March 14, 2022</h4>
 
 </ol>
@@ -268,3 +269,9 @@ export default {
   },
 };
 </script>
+
+<style>
+.slide{
+  min-height: 100vh;
+}
+</style>

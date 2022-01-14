@@ -71,11 +71,11 @@ const routes = [
       ),
   },
   {
-    path: "/lectures/lecture03",
+    path: "/designingForAnimation",
     name: "Lecture03",
     component: () =>
       import(
-        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture03.vue"
+        /* webpackChunkName: "lecture01" */ "../views/lectures/designingForAnimation.vue"
       ),
   },
   {
@@ -108,6 +108,14 @@ const routes = [
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/lectures/CSSanimations.vue"
+      ),
+  },
+  {
+    path: "/accessibility",
+    name: "CSSanimations",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/accessibility.vue"
       ),
   },
   {
