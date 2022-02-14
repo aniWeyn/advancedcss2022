@@ -25,7 +25,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .img {
   max-height: 400px;
 }
