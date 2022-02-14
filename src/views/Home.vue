@@ -247,7 +247,6 @@
 </ol>-->
     </article>
     <Sidebar />
-    <Sources />
     <Footer />
   </div>
 </template>
@@ -255,7 +254,6 @@
 <script>
 // @ is an alias to /src
 import Sidebar from "@/components/Sidebar";
-import Sources from "@/components/Sources";
 import Footer from "@/components/Footer";
 import Navigation from "@/components/Navigation";
 
@@ -263,7 +261,6 @@ export default {
   name: "Home",
   components: {
     Sidebar,
-    Sources,
     Footer,
     Navigation,
   },

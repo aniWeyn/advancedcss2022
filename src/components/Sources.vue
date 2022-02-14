@@ -1,5 +1,5 @@
 <template>
-  <div class="ad">
+  <div>
     <h3>Sources:</h3>
     <a target="_blank" href="https://9elements.com/bem-cheat-sheet/">BEM</a>
     <br />
