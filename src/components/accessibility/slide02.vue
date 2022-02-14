@@ -4,9 +4,16 @@
     <h4>Microsoft Inclusive Design</h4>
 
     <p>
-      <span class="action--underscore">Homework</span> read about MS Inclusive
-      Design
+      <a target="blank" href="https://www.microsoft.com/design/inclusive/"
+        >MS Inclusive Design</a
+      >
     </p>
-    <a href="https://www.microsoft.com/design/inclusive/">Link</a>
+    <img
+      class="img-ms"
+      src="../../assets/images/microsoftInclusiveDesign.png"
+      alt="Disabillity"
+    />
   </div>
 </template>
+
+<style scoped></style>

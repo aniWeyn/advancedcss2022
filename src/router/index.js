@@ -199,14 +199,6 @@ const routes = [
       ),
   },
   {
-    path: "/laboratories/laboratory02",
-    name: "Laboratory02",
-    component: () =>
-      import(
-        /* webpackChunkName: "lecture01" */ "../views/laboratories/Laboratory02.vue"
-      ),
-  },
-  {
     path: "/laboratories/laboratory03",
     name: "Laboratory03",
     component: () =>
@@ -380,6 +372,14 @@ const routes = [
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/LabSharing1.vue"
+      ),
+  },
+  {
+    path: "/designingforanimationlab",
+    name: "DesigningForAnimationLab",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/DesigningForAnimationLab.vue"
       ),
   }
 ];

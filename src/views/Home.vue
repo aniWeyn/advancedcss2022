@@ -123,7 +123,7 @@
           <router-link to="/CSSanimations">Animations </router-link>
         </li>
       </ol>
-      <ol start="19">
+      <ol start="24">
         <li>
           <router-link to="/labintersectionobservercssselectors"
             >Lab: Intersection Observer + Transformations, Transitions and
@@ -132,30 +132,30 @@
         </li>
       </ol>
       <h4>January 14, 2022</h4>
-      <ol start="22">
+      <ol start="25">
         <li>Requirements for Assignent 1</li>
       </ol>
-      <h4>January 14, 2022</h4>
-      <ol start="14"></ol>
-      <h4>February 14, 2022 (8:15 - 12:00, 12:30 - 14:30)</h4>
-      <ol start="14">
+      <h4>February 14, 2022</h4>
+      <ol start="26">
         <li>
           <router-link to="designingForAnimation"
             >Designing for animation
           </router-link>
         </li>
         <li>
+          <router-link to="designingforanimationlab"
+            >Lab: Designing for animation
+          </router-link>
+        </li>
+      </ol>
+      <ol start="28">
+        <li>
           <router-link to="accessibility"
             >Accessibility in CSS (A11y)
           </router-link>
         </li>
-        <li>
-          <router-link to="/laboratories/laboratory02"
-            >Laboratory 02 - 01.02.2021</router-link
-          >
-        </li>
       </ol>
-      <h4>February 15, 2022 (8:15 - 10:00, 12:15 - 16:00)</h4>
+      <!-- <h4>February 15, 2022 (8:15 - 10:00, 12:15 - 16:00)</h4>
       <ol start="14">
         L7: Working with Visual Studio Code and GitHub and Project Management
         (w7)
@@ -171,7 +171,7 @@
         </li>
       </ol>
 
-      <!--
+      
              
               <ol start="14">
                       <li>
@@ -271,7 +271,7 @@ export default {
 </script>
 
 <style>
-.slide{
+.slide {
   min-height: 100vh;
 }
 </style>

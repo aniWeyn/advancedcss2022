@@ -1,7 +1,8 @@
 <template>
   <div class="lecture">
     <Slide00 />
-    <Slide01 />
+    <Accessibility />
+    <AppleA11y />
     <Slide02 />
     <Slide03 />
     <Slide04 />
@@ -12,12 +13,23 @@
     <Slide09 />
     <Slide10 />
     <Slide11 />
+    <ColorBlindness />
+    <DesigningForA11y />
+    <WebAccessibility />
+    <AccessiblePages />
+    <SkipLink />
+    <PrefersReducedMotion />
+    <AccessibilityAudit />
+    <AccessibilityFirefox />
+    <GoogleA11y />
+    <DevelopingForA11y />
+
   </div>
 </template>
 
 <script>
 import Slide00 from "@/components/accessibility/slide00.vue";
-import Slide01 from "@/components/accessibility/slide01.vue";
+/*import Slide01 from "@/components/accessibility/slide01.vue";*/
 import Slide02 from "@/components/accessibility/slide02.vue";
 import Slide03 from "@/components/accessibility/slide03.vue";
 import Slide04 from "@/components/accessibility/slide04.vue";
@@ -28,12 +40,25 @@ import Slide08 from "@/components/accessibility/slide08.vue";
 import Slide09 from "@/components/accessibility/slide09.vue";
 import Slide10 from "@/components/accessibility/slide10.vue";
 import Slide11 from "@/components/accessibility/slide11.vue";
+import AccessibilityAudit from "@/components/accessibility/accessibilityAudit.vue";
+import SkipLink from "@/components/accessibility/skipLink.vue";
+import PrefersReducedMotion from "@/components/accessibility/prefers-reduced-motion.vue";
+import Accessibility from "@/components/accessibility/accessibility.vue";
+import AccessiblePages from "@/components/accessibility/accessiblePages.vue";
+import DesigningForA11y from "@/components/accessibility/designingForA11y.vue";
+import DevelopingForA11y from "@/components/accessibility/developingForA11y.vue";
+import AccessibilityFirefox from "@/components/accessibility/accessibilityFirefox.vue";
+import AppleA11y from "@/components/accessibility/appleA11y.vue";
+import WebAccessibility from "@/components/accessibility/webaccessibility.vue";
+import GoogleA11y from "@/components/accessibility/googleA11y.vue";
+import ColorBlindness from "@/components/accessibility/colorBlindness.vue";
 
 export default {
   name: "designingForAnimation",
   components: {
     Slide00,
-    Slide01,
+    Accessibility,
+    AccessiblePages,
     Slide02,
     Slide03,
     Slide04,
@@ -43,7 +68,17 @@ export default {
     Slide08,
     Slide09,
     Slide10,
-    Slide11
+    Slide11,
+    AccessibilityAudit,
+    SkipLink,
+    PrefersReducedMotion,
+    DesigningForA11y,
+    DevelopingForA11y,
+    AccessibilityFirefox,
+    AppleA11y,
+    WebAccessibility,
+    GoogleA11y,
+    ColorBlindness
   },
   data() {
     return {

@@ -1,6 +1,5 @@
 <template>
   <div class="slide">
-    <hr />
     <div class="middle">
       <img
         class="img-ms--cards"
