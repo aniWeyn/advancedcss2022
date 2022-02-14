@@ -17,7 +17,7 @@
   </div>
 </template>
 
-<style scope>
+<style scoped>
 .img {
   max-width: 250px;
 }
