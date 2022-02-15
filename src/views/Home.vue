@@ -166,7 +166,7 @@
           <router-link to="/laboratories/laboratory01"
             >Lab: Visual Studio Code</router-link
           >
-        </li>
+        </li>     
         <li>
           <router-link to="/laboratories/laboratory03"
             >Lab: SASS... what was that?</router-link
