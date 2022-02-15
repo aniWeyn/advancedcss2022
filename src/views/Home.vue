@@ -155,30 +155,27 @@
           </router-link>
         </li>
       </ol>
-      <!-- <h4>February 15, 2022 (8:15 - 10:00, 12:15 - 16:00)</h4>
-      <ol start="14">
-        L7: Working with Visual Studio Code and GitHub and Project Management
-        (w7)
+      <h4>February 15, 2022</h4>
+      <ol start="29">
         <li>
           <router-link to="/laboratories/laboratory01"
-            >Laboratory 01 - 25.01.2021</router-link
+            >Lab: Visual Studio Code</router-link
           >
         </li>
         <li>
           <router-link to="/laboratories/laboratory03"
-            >SASS in VS Code and project archtecture</router-link
+            >Lab: SASS... what was that?</router-link
           >
         </li>
       </ol>
 
-      
-             
-              <ol start="14">
-                      <li>
+              <!--    <ol start="14">
+        <li>
           <router-link to="/lectures/lecture06"
             >Lecture 6 - Animating SVG
-          </router-link>        </li> 
-                  <li>
+          </router-link>
+        </li>
+        <li>
           <a target="_blank" href="https://github.com/aniWeyn/svg"
             >GitHub repository: intorudction to SVG</a
           >
@@ -188,16 +185,13 @@
             >Laboratory 05 - 01.03.2021 - Animating SVG</router-link
           >
         </li>
-                <li>
+        <li>
           <router-link to="/laboratories/laboratory04"
             >Laboratory 04 - 22.02.2021</router-link
           >
         </li>
-
+      </ol>
         </ol>
-              <h4>January 13, 2022</h4>
-              <ol start="14">
-              <li>Guest lecture</li>
                                     <li>
           <router-link to="/lectures/lecture11"
             >Lecture 11 - Flexbox, CSS Grid, CSS Units, Text Effects

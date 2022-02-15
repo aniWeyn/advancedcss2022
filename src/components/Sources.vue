@@ -23,6 +23,7 @@
     >
       fffuel.co/</a
     ><br />
+    https://training.github.com/downloads/github-git-cheat-sheet/
     
     <h4>Visual Studio Code</h4>
     <h5>Shortcuts</h5>

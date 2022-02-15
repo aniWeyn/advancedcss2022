@@ -1,36 +1,8 @@
 <template>
   <div>
-    <h3>Laboratory Schedule</h3>
-    <div class="flex">
-      Include SASS in your Assignment 2 and Assignment 3 project.
-      <hr />
+    <h3>Preparation for Assignment 2 and Assignment 3 cdn.</h3>
       <div>
-        <h3>Preparing Visual Studio Code</h3>
-        <p>
-          Download Watch SASS:
-          <a
-            href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass"
-            >Live SASS Compiler</a
-          >
-        </p>
-        <p>Download Live Server</p>
-        <h3>Preparing files</h3>
-        <h4>Project</h4>
-        <ul>
-          <li>Create a file index.html</li>
-          <li>Create folder assets</li>
-          <li>In the assets folder create style folder</li>
-          <li>In the style folder create a file index.scss and _colors.scss</li>
-          <li>
-            Add reference to the index.css file to the index.html file (link
-            rel="stylesheet" href="assets/styles/index.css")
-          </li>
-        </ul>
         <h4>Variables</h4>
-        <p>
-          Generate your colour palette at
-          <a href="https://coolors.co/">Coolors</a>
-        </p>
         <p>Add your colors ass a $theme__colorName: #1c2321</p>
         <h3>Compailing the SASS files</h3>
         <h4>Click Watch sass</h4>
@@ -138,7 +110,6 @@
         />
       </div>
     </div>
-  </div>
 </template>
 
 <style scoped>
