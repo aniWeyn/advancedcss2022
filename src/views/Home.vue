@@ -158,7 +158,7 @@
       <h4>February 15, 2022</h4>
       <ol start="29">
         <li>
-          Assignment 2
+          Requirements for Assignment 2
         </li>
         <li>
           <router-link to="/laboratories/laboratory01"
