@@ -160,6 +160,8 @@
         <li>
           Requirements for Assignment 2
         </li>
+      </ol>
+      <ol start="30">
         <li>
           <router-link to="/laboratories/laboratory01"
             >Lab: Visual Studio Code</router-link
