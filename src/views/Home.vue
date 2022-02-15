@@ -158,6 +158,9 @@
       <h4>February 15, 2022</h4>
       <ol start="29">
         <li>
+          Assignment 2
+        </li>
+        <li>
           <router-link to="/laboratories/laboratory01"
             >Lab: Visual Studio Code</router-link
           >
@@ -169,7 +172,7 @@
         </li>
       </ol>
 
-              <!--    <ol start="14">
+      <!--    <ol start="14">
         <li>
           <router-link to="/lectures/lecture06"
             >Lecture 6 - Animating SVG
