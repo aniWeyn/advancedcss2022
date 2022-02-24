@@ -22,6 +22,32 @@
         >Web Accessibility Evaluation Guide</a
       >
     </p>
+                    <p>
+      <a target="blank" href="https://inclusive-components.design/cards/"
+        >Inclusive Components</a
+      >
+    </p>
+                        <p>
+      <a target="blank" href="https://www.a11ymatters.com/"
+        >a11ymatters</a
+      >
+    </p>
+
+                        <p>
+      <a target="blank" href=" https://primer.style/design/accessibility/guidelines"
+        > Accessibility guidelines</a
+      >
+    </p>
+   
+                           <p>
+      <a target="blank" href="https://primer.style/design/accessibility/tools"
+        > Accessibility tools</a
+      >
+    </p>
+    
+   
+    
+
     
 
     
