@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="slide">
     <h2>Synchronized Multimedia Integration Language (SMIL)</h2>
     <div>
       SMIL allows you to:

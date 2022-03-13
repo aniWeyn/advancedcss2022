@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="slide">
     <h3>Scalable Vector Graphics (SVG)</h3>
     <p>
       Scalable Vector Graphics (SVG) are an

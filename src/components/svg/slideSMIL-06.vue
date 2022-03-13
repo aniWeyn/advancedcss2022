@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="slide">
     <h3>Path attribute and Path commands</h3>
     <div class="two-columns">
       <div class="middle">

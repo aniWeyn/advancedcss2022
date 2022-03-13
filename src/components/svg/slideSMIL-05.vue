@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="slide">
     <h3>Animation following a path</h3>
     <p><b>animateMotion</b></p>
     <p>

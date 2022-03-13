@@ -166,36 +166,47 @@
           <router-link to="/laboratories/laboratory01"
             >Lab: Visual Studio Code</router-link
           >
-        </li>     
+        </li>             
         <li>
           <router-link to="/laboratories/laboratory03"
             >Lab: SASS... what was that?</router-link
           >
         </li>
       </ol>
-
-      <!--    <ol start="14">
+    <h4>March 14, 2022</h4>
+    <ol>
         <li>
-          <router-link to="/lectures/lecture06"
-            >Lecture 6 - Animating SVG
+          <router-link to="/svg"
+            >Introduction to SVG
           </router-link>
         </li>
         <li>
-          <a target="_blank" href="https://github.com/aniWeyn/svg"
-            >GitHub repository: intorudction to SVG</a
+          <router-link to="/svgDrawing"
+            >Lab: Drawing basic SVG shapes
+          </router-link>
+        </li>
+        <li>Guest Lecture: Moderninzing UI on Enterprise level </li>
+        <li>
+          <router-link to="/svgAnimationSMIL"
+            >Animating SVG</router-link
           >
         </li>
         <li>
           <router-link to="/laboratories/laboratory05"
-            >Laboratory 05 - 01.03.2021 - Animating SVG</router-link
-          >
-        </li>
-        <li>
-          <router-link to="/laboratories/laboratory04"
-            >Laboratory 04 - 22.02.2021</router-link
+            >Lab: Animating SVG</router-link
           >
         </li>
       </ol>
+      <h4>March 15, 2022</h4>
+      <ol start="29">
+        <li>
+          Requirements for Assignment 3
+        </li>
+        <li>
+          TBA
+        </li>
+      </ol>
+            <!--    <ol start="14">
         </ol>
                                     <li>
           <router-link to="/lectures/lecture11"
@@ -216,7 +227,7 @@
         </li>
               </ol>
 
-<h4>March 14, 2022</h4>
+
 
 </ol>
 <h4>March 15, 2022</h4>

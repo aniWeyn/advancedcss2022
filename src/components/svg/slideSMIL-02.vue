@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="slide">
     <h2>Examples</h2>
     <iframe
       height="425"

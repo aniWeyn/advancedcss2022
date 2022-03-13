@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="slide">
     <h3>Good sources about SVG</h3>
     <p>
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/SVG"

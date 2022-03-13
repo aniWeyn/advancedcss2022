@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="slide">
     <h3>Animating the transform attributes</h3>
     <p><b>animateTransform</b></p>
     <p>

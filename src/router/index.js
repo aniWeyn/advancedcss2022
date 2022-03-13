@@ -95,11 +95,19 @@ const routes = [
       ),
   },
   {
-    path: "/lectures/lecture06",
-    name: "Lecture06",
+    path: "/svg",
+    name: "SVG",
     component: () =>
       import(
-        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture06.vue"
+        /* webpackChunkName: "lecture01" */ "../views/lectures/svg.vue"
+      ),
+  },
+  {
+    path: "/svgAnimationSMIL",
+    name: "SVG Anamiation SMIL",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/svgAnimationSMIL.vue"
       ),
   },
   {
@@ -356,6 +364,14 @@ const routes = [
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/LabCodePen.vue"
+      ),
+  },
+  {
+    path: "/svgDrawing",
+    name: "SVG Drawing",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/svgDrawingElements.vue"
       ),
   },
   {
