@@ -405,6 +405,14 @@ const routes = [
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/keyframesCSSVariables.vue"
       ),
+  },
+  {
+    path: "/michal",
+    name: "Michal Pietrzyk",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/Michal.vue"
+      ),
   }
 ];
 
