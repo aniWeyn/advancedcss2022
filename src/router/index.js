@@ -397,6 +397,14 @@ const routes = [
       import(
         /* webpackChunkName: "lecture01" */ "../views/laboratories/DesigningForAnimationLab.vue"
       ),
+  },
+  {
+    path: "/keyframesCSSVariables",
+    name: "keyframesCSSVariables",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/laboratories/keyframesCSSVariables.vue"
+      ),
   }
 ];
 

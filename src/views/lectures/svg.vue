@@ -4,6 +4,7 @@
     <SlideSVG00 />
     <SlideSVG01 />
     <SlideSMIL06 />
+    <Figma />
   </div>
 </template>
 
@@ -12,7 +13,7 @@ import Slide00 from "@/components/svg/slide00.vue";
 import SlideSVG00 from "@/components/svg/slideSVG00.vue";
 import SlideSVG01 from "@/components/svg/slideSVG01.vue";
 import SlideSMIL06 from "@/components/svg/slideSMIL-06.vue";
-
+import Figma from "@/components/svg/figma.vue";
 
 export default {
   name: "Lecture00",
@@ -21,6 +22,7 @@ export default {
     SlideSVG00,
     SlideSVG01,
     SlideSMIL06,
+    Figma
   },
   data() {
     return {

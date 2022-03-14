@@ -173,9 +173,9 @@
           >
         </li>
       </ol>
-      <!--
+    
     <h4>March 14, 2022</h4>
-    <ol>
+    <ol start="32">
         <li>
           <router-link to="/svg"
             >Introduction to SVG
@@ -186,7 +186,11 @@
             >Lab: Drawing basic SVG shapes
           </router-link>
         </li>
+        </ol>
+        <ol start="34">
         <li>Guest Lecture: Moderninzing UI on Enterprise level </li>
+        </ol>
+        <ol start="35">
         <li>
           <router-link to="/svgAnimationSMIL"
             >Animating SVG</router-link
@@ -197,16 +201,23 @@
             >Lab: Animating SVG</router-link
           >
         </li>
+        </ol>
+        <ol start="37">
+                <li>
+          <router-link to="/keyframesCSSVariables"
+            >Lab: Keyframes + CSS Variables</router-link
+          >
+        </li>
       </ol>
       <h4>March 15, 2022</h4>
-      <ol start="29">
+      <ol start="38">
         <li>
           Requirements for Assignment 3
         </li>
         <li>
           TBA
         </li>
-      </ol>-->
+      </ol>
             <!--    <ol start="14">
         </ol>
                                     <li>

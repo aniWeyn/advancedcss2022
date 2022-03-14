@@ -4,7 +4,7 @@
       <h2>Animate</h2>
       <h3>Ex. 1</h3>
       <iframe
-        height="400"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex1"
@@ -23,7 +23,7 @@
     <div>
       <h3>Ex. 2</h3>
       <iframe
-        height="400"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex2"
@@ -42,7 +42,7 @@
     <div>
       <h3>Ex. 3</h3>
       <iframe
-        height="400"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex3"
@@ -61,7 +61,7 @@
     <div>
       <h3>Ex. 4</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex12"
@@ -80,7 +80,7 @@
     <div>
       <h3>Ex. 5</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex13"
@@ -99,7 +99,7 @@
     <div>
       <h3>Ex. 6</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex14"
@@ -118,7 +118,7 @@
     <div>
       <h3>Ex. 7</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex15"
@@ -138,7 +138,7 @@
     <div>
       <h3>Ex. 8</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex4"
@@ -157,7 +157,7 @@
     <div>
       <h3>Ex. 9</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex5"
@@ -176,7 +176,7 @@
     <div>
       <h3>Ex. 10</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex6"
@@ -195,7 +195,7 @@
     <div>
       <h3>Ex. 11</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex7"
@@ -214,7 +214,7 @@
     <div>
       <h3>Ex. 12</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex8"
@@ -233,7 +233,7 @@
     <div>
       <h3>Ex. 13</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex9"
@@ -253,7 +253,7 @@
     <div>
       <h3>Ex. 14 - use animateMotion with path</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex10"
@@ -272,7 +272,7 @@
     <div>
       <h3>Ex. 15</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex11"
@@ -291,7 +291,7 @@
     <div>
       <h3>Ex. 16</h3>
       <iframe
-        height="265"
+        height="600"
         style="width: 100%"
         scrolling="no"
         title="SVG+SMIL-Ex16"
@@ -306,13 +306,22 @@
         Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>) on
         <a href="https://codepen.io">CodePen</a>.
       </iframe>
+
+    </div>
+    <h3>Ex. 16 - use keyframes to animate SVG</h3>
+    <div>
+            <iframe height="600" style="width: 100%;" scrolling="no" title="SVG+keyframe-Ex12" src="https://codepen.io/AniWeyn/embed/Rwxwvom?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/AniWeyn/pen/Rwxwvom">
+  SVG+keyframe-Ex12</a> by Sabina (<a href="https://codepen.io/AniWeyn">@AniWeyn</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
     </div>
   </div>
 </template>
 
 <style scoped>
 .container {
-  padding-left: 20vw;
-  padding-right: 20vw;
+  padding-left: 10vw;
+  padding-right: 10vw;
 }
 </style>
