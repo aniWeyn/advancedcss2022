@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr >
     <h3>So what to use Flex or Grid?</h3>
     <p>CSS Grid was created to fix what Flexbox cannot do.</p>
     <p>These tools are complementary.</p>
@@ -23,7 +24,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 img.img {
   width: 40%;
 }

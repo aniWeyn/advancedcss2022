@@ -1,10 +1,11 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr >
     <h3>CSS Grid</h3>
   </div>
 </template>
 
-<style>
+<style scoped>
 img.img {
   width: 40%;
 }

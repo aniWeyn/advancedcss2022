@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr >
     <h3>Firefox DevTools: Flexbox Inspector</h3>
     <img class="img" src="../../assets/images/lec11-FFDT01.png" alt="" />
     <h4>How is it helpful?</h4>
@@ -14,8 +15,8 @@
   </div>
 </template>
 
-<style>
-img.img {
-  width: 40%;
+<style scoped>
+img {
+  width: 80%;
 }
 </style>

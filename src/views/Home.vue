@@ -166,44 +166,40 @@
           <router-link to="/laboratories/laboratory01"
             >Lab: Visual Studio Code</router-link
           >
-        </li>             
+        </li>
         <li>
           <router-link to="/laboratories/laboratory03"
             >Lab: SASS... what was that?</router-link
           >
         </li>
       </ol>
-    
-    <h4>March 14, 2022</h4>
-    <ol start="32">
+
+      <h4>March 14, 2022</h4>
+      <ol start="32">
         <li>
-          <router-link to="/svg"
-            >Introduction to SVG
-          </router-link>
+          <router-link to="/svg">Introduction to SVG </router-link>
         </li>
         <li>
           <router-link to="/svgDrawing"
             >Lab: Drawing basic SVG shapes
           </router-link>
         </li>
-        </ol>
-        <ol start="34">
-        <li>Guest Lecture: Moderninzing UI on Enterprise level </li>
-        </ol>
-        <ol start="35">
+      </ol>
+      <ol start="34">
+        <li>Guest Lecture: Moderninzing UI on Enterprise level</li>
+      </ol>
+      <ol start="35">
         <li>
-          <router-link to="/svgAnimationSMIL"
-            >Animating SVG</router-link
-          >
+          <router-link to="/svgAnimationSMIL">Animating SVG</router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory05"
             >Lab: Animating SVG</router-link
           >
         </li>
-        </ol>
-        <ol start="37">
-                <li>
+      </ol>
+      <ol start="37">
+        <li>
           <router-link to="/keyframesCSSVariables"
             >Lab: Keyframes + CSS Variables</router-link
           >
@@ -214,59 +210,96 @@
         <li>
           Requirements for Assignment 3
         </li>
+      </ol>
+      <h4>April 4, 2022</h4>
+      <ol start="39">
         <li>
-          TBA
+          <router-link to="/scrollama">
+          Scrollytelling: Scrollama
+          </router-link>
+        </li>
+        <li>
+          <a target="_blank" href="https://github.com/aniWeyn/scrollama_intro">
+          Lab: Scrollama Introduction
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="https://github.com/aniWeyn/scrollama_svg">
+          Lab: Scrollama and SVG
+          </a>
         </li>
       </ol>
-            <!--    <ol start="14">
-        </ol>
-                                    <li>
-          <router-link to="/lectures/lecture11"
-            >Lecture 11 - Flexbox, CSS Grid, CSS Units, Text Effects
-          </router-link>
-          
+      <ol start="42">
+        <li>
+          <router-link to="/githubpages">
+          GitHub Pages
+           </router-link>
         </li>
-
+      </ol>
+      <ol start="43">
+        <li>
+          <router-link to="/cssUnits">CSS Units </router-link>
+        </li>
+      </ol>
+      <ol start="44">
+        <li>
+          <router-link to="/flexGrid">Flexbox and CSS Grid </router-link>
+        </li>
         <li>
           <router-link to="/laboratories/laboratory09flex"
-            >Laboratory 09 - 26.04.2021 - Flexbox
+            >Lab: Flexbox
           </router-link>
         </li>
         <li>
           <router-link to="/laboratories/laboratory09grid"
-            >Laboratory 09 - 26.04.2021 - CSS Grid
+            >Lab: CSS Grid
           </router-link>
         </li>
-              </ol>
+      </ol>
+      <ol start="47">
+        <li>
+          Prepresentations of Assignmnet 3 within groups
+        </li>
+      </ol>
 
-
-
-</ol>
-<h4>March 15, 2022</h4>
-<ol start="14">        <li>
-          <router-link to="/lectures/lecture10"
-            >Lecture 10 - Performance (lazy loading, intersection observer)
-          </router-link>
+      <h4>April 25, 2022</h4>
+      <ol start="48">
+        <li>
+          Why the Web and CSS is the way it is?
         </li>
-                <li>
-          <router-link to="/laboratories/laboratory08"
-            >Laboratory 08 - 19.04.2021 - Lazy Loading
-          </router-link>
+      </ol>
+      <ol start="49">
+        <li>
+          <!--<router-link to="/lectures/lecture10" -->
+          Performance (lazy loading, intersection observer)
+          <!--</router-link>  -->
         </li>
-        
-        </ol>
-<h4>April 4, 2022</h4>
-<ol start="14">
-          <li>
-          <router-link to="/lectures/lecture09"
-            >Lecture 9 - CSS Frameworks
-          </router-link>
+        <li>
+          <!-- <router-link to="/laboratories/laboratory08"> -->
+          Lab: Lazy Loading
+          <!-- </router-link> -->
         </li>
-</ol>
-<h4>April 25, 2022</h4>
-<ol start="14">
-  <li>L11: TBA, Final Presentation (w17)</li>
-</ol>-->
+      </ol>
+      <ol start="50">
+        <li>
+          <!-- <router-link to="/lectures/lecture09">-->
+          CSS Frameworks
+          <!--</router-link>-->
+        </li>
+      </ol>
+      <ol start="51">
+        <li>
+          What are moder frameworks and headless CMS?
+        </li>
+        <li>
+          Guest lecture - React Styled Components
+        </li>
+      </ol>
+      <ol start="53">
+        <li>
+          Presentations - project exhibitions
+        </li>
+      </ol>
     </article>
     <Sidebar />
     <Footer />

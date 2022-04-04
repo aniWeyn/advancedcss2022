@@ -16,6 +16,8 @@
 
     https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326
     https://www.amazon.com/Type-Primer-2nd-John-Kane-ebook/dp/B006Y1X55G
-    
+    https://www.madebymike.com.au/writing/fluid-type-calc-examples/
+    http://artequalswork.com/posts/fluid-type/
+    https://practicaltypography.com/typography-in-ten-minutes.html
   </div>
 </template>
