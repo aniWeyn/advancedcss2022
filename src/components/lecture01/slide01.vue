@@ -11,6 +11,10 @@
       <a target="_blank" href="https://css-tricks.com/"
         >CSS-Tricks</a>
     </p>
+    <p class="space">
+            <a target="_blank" href="https://web.dev/learn/css/"
+        >Google - Web Dev - Learn CSS</a>
+    </p>
     
     <p><a target="_blank" href="https://www.youtube.com/c/LayoutLand/videos">Layout Land</a>-  youtbe channel of Jen Simmons</p>
     <p><a target="_blank" href="https://www.youtube.com/c/DesignCourse/videos">Design Course</a>- youtbe channel of Gary</p>
