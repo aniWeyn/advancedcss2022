@@ -265,7 +265,9 @@
       <h4>April 25, 2022</h4>
       <ol start="48">
         <li>
+          <router-link to="/rootsofwebandcss">
           Why the Web and CSS is the way it is??
+          </router-link>
         </li>
       </ol>
       <ol start="49">
@@ -274,28 +276,32 @@
           Performance (lazy loading, core web vitals)
           </router-link>
         </li>
+        <!--
         <li>
           <router-link to="/laboratories/laboratory08">
           Lab: Lazy Loading
           </router-link>
-        </li>
+        </li>-->
       </ol>
       <ol start="50">
         <li>
-          <!-- <router-link to="/lectures/lecture09">-->
-          CSS Frameworks
-          <!--</router-link>-->
+          <router-link to="/lectures/lecture09">
+          CSS Frameworks and Design Systems
+          </router-link>
         </li>
       </ol>
       <ol start="51">
         <li>
+          <router-link to="/lectures/webframeworksandheadlesscms">
           What are moder frameworks and headless CMS?
+          </router-link>
         </li>
       </ol>
       <ol start="52">
         <li>
           Presentations - project exhibitions
         </li>
+        <li>Individual Report</li>
       </ol>
     </article>
     <Sidebar />

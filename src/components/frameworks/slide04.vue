@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+        <hr/>
     <h3>Design System</h3>
     <h4>Material Design</h4>
     <a target="_blank" href="https://material.io/design"

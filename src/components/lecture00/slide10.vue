@@ -3,7 +3,8 @@
     <h2>Individual Report</h2>
     <div class="two-columns">
       <div>
-        deadline: TBA
+        insperia opening: 16.05, 08:00
+        deadline: 03.06, 23:59
         <p class="space">7-10 pages report, individual work.</p>
         <p class="space">Individual report will consist of two parts.</p>
         <p class="space">

@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+        <hr/>
     <h3>CSS Frameworks</h3>
     <h4>Bootstrap</h4>
     <a target="_blank" href="https://getbootstrap.com/"

@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+        <hr/>
     <h3>Design System</h3>
     <p>
       A Design System is a set of interconnected patterns and shared practices

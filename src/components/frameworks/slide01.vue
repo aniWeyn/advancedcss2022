@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr/>
     <h3>CSS Frameworks</h3>
     <p>
       A CSS framework is a library allowing for easier, more standards-compliant
