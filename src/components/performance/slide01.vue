@@ -1,13 +1,15 @@
 <template>
-  <div>
+  <div class="slide">
+    <hr />
     <h3>What is my page performance?</h3>
-    <h4>Network</h4>
+    <p>Below screenshots shows how to simulate different Internet connection types. Try it on your own!</p>
+    <h6>Network</h6>
     <img
       class="img"
       src="../../assets/images/lecture09-network.png"
       alt="Chrome Network"
     />
-    <h4>Disable Cache</h4>
+    <h6>Disable Cache</h6>
     <p>
       To simulate that someone is on the page for the first time or their
       browsers' cache was cleaned up.
@@ -17,7 +19,7 @@
       src="../../assets/images/lecture09-disableCache.png"
       alt="Chrome Disable Cache"
     />
-    <h4>Testing speed</h4>
+    <h6>Testing speed</h6>
     <p>
       Not always our users will have the newest smartphones and access to WiFi
       or 5G.
@@ -32,7 +34,7 @@
       src="../../assets/images/lecture09-throttling-2.png"
       alt="Chrome test speed"
     />
-    <h4>Results</h4>
+    <h6>Results</h6>
     <p></p>
     <img
       class="img"

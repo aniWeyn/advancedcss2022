@@ -270,14 +270,14 @@
       </ol>
       <ol start="49">
         <li>
-          <!--<router-link to="/lectures/lecture10" -->
-          Performance (lazy loading, intersection observer)
-          <!--</router-link>  -->
+          <router-link to="/performance">
+          Performance (lazy loading, core web vitals)
+          </router-link>
         </li>
         <li>
-          <!-- <router-link to="/laboratories/laboratory08"> -->
+          <router-link to="/laboratories/laboratory08">
           Lab: Lazy Loading
-          <!-- </router-link> -->
+          </router-link>
         </li>
       </ol>
       <ol start="50">
@@ -291,11 +291,8 @@
         <li>
           What are moder frameworks and headless CMS?
         </li>
-        <li>
-          Guest lecture - React Styled Components
-        </li>
       </ol>
-      <ol start="53">
+      <ol start="52">
         <li>
           Presentations - project exhibitions
         </li>

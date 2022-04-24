@@ -247,4 +247,8 @@ a.router-link-exact-active {
 .button-navigation button:hover {
   background-color: rgba(66, 185, 131, 0.1);
 }
+
+.slide {
+  min-height: 100vh;
+}
 /*# sourceMappingURL=index.css.map */

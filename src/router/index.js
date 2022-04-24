@@ -199,6 +199,14 @@ const routes = [
       ),
   },
   {
+    path: "/performance",
+    name: "Performance",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/performance.vue"
+      ),
+  },
+  {
     path: "/laboratories/laboratory01",
     name: "Laboratory01",
     component: () =>

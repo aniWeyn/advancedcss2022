@@ -1,5 +1,6 @@
 <template>
   <div class="slide">
+    <hr />
     <h3>Lazy loading</h3>
     <p>
       Lazy loading is a strategy to identify resources as non-blocking
