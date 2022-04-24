@@ -5,5 +5,9 @@
     <p>Paragraph</p>
     <p class="sources"> <a target="_blank" href="link" >Link description.</a> </p>
      <p> <a target="_blank" href="link" >Link description</a> </p>
+    <img
+        src="../../assets/images/color-blindness-reference-chart.png"
+        alt="Disabillity"
+      />
   </div>
 </template>

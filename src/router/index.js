@@ -207,6 +207,14 @@ const routes = [
       ),
   },
   {
+    path: "/webframeworksandheadlesscms",
+    name: "webframeworksandheadlesscms",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/webframeworksandheadlesscms.vue"
+      ),
+  },
+  {
     path: "/laboratories/laboratory01",
     name: "Laboratory01",
     component: () =>
