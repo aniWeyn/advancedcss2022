@@ -143,14 +143,6 @@ const routes = [
       ),
   },
   {
-    path: "/lectures/lecture10",
-    name: "Lecture10",
-    component: () =>
-      import(
-        /* webpackChunkName: "lecture01" */ "../views/lectures/Lecture10.vue"
-      ),
-  },
-  {
     path: "/flexGrid",
     name: "Flexbox and CSS Grid",
     component: () =>
@@ -204,6 +196,14 @@ const routes = [
     component: () =>
       import(
         /* webpackChunkName: "lecture01" */ "../views/lectures/performance.vue"
+      ),
+  },
+  {
+    path: "/rootsofwebandcss",
+    name: "Performance",
+    component: () =>
+      import(
+        /* webpackChunkName: "lecture01" */ "../views/lectures/rootsofwebandcss.vue"
       ),
   },
   {
