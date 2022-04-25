@@ -292,7 +292,7 @@
       </ol>
       <ol start="51">
         <li>
-          <router-link to="/lectures/webframeworksandheadlesscms">
+          <router-link to="/webframeworksandheadlesscms">
           What are moder frameworks and headless CMS?
           </router-link>
         </li>
