@@ -22,7 +22,7 @@
           <li>Assignment 1 (pass/fail), Blackboard, 31.01</li>
           <li>Assignment 2 (pass/fail), Blackboard, 07.03</li>
           <li>Assignment 3 (pass/fail), Blackboard, 25.04</li>
-          <li>Individual report, Inspera, TBA</li>
+          <li>Individual report, Inspera, 03.06, 23:59</li>
         </ul>
       </div>
     </div>
